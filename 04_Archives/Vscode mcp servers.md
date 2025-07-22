@@ -1,4 +1,4 @@
-Vscode mcp servers 
+[[vscode]] [[mcp]] servers 
 Visual Studio Code (@code) on X
 Context7 
 Peter Strömberg aka PEZ (@pappapez) on X

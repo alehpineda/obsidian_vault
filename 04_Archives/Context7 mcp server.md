@@ -1,4 +1,4 @@
-Context7 mcp
+Context7 [[mcp]]
 
 Has documentation for web3
 Vyper
