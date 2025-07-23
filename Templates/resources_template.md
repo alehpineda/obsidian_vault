@@ -1,4 +1,5 @@
 ---
-tags: 
-links:
+tags:
+  - resource
+Area:
 ---
