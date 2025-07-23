@@ -1,5 +1,5 @@
 ---
 tags:
   - area
-Links:
+Links: "[[My Areas]]"
 ---
