@@ -16,9 +16,9 @@ Deadline: 2025-07-22
 - Learn how to write, deploy, and interact with Python-based smart contracts using the Vyper programming language. 
 - Learn how to build your decentralized applications and kickstart your career as a web3 developer.
 
-6hrs
+⌚️ 6hrs
 
-86 lessons
+ 86 lessons
 
 4 projects
 
