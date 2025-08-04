@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Untitled.md",
+                "file": "02_Areas/Software Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Software Engineering"
             }
           }
         ]
@@ -169,7 +169,7 @@
   "active": "1b58ed11779f39dd",
   "lastOpenFiles": [
     "03_Resources/Obsidian.md",
-    "02_Areas/Untitled.md",
+    "02_Areas/Software Engineering.md",
     "01_Projects/Introduction to Python and Vyper.md",
     "01_Projects/PARA Method in Obsidian.md",
     "How to format notes in Obsidian.md",
