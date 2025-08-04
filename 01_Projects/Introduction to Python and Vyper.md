@@ -12,7 +12,9 @@ Deadline: 2025-07-22
 
 ## Description
 
-Begin your journey as a Python and Vyper smart contract developer. Learn how to write, deploy, and interact with Python-based smart contracts using the Vyper programming language. Learn how to build your decentralized applications and kickstart your career as a web3 developer.
+- Begin your journey as a Python and Vyper smart contract developer. 
+- Learn how to write, deploy, and interact with Python-based smart contracts using the Vyper programming language. 
+- Learn how to build your decentralized applications and kickstart your career as a web3 developer.
 
 6hrs
 
