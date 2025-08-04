@@ -4,6 +4,8 @@ Area: "[[Software Engineering]]"
 Links: "[[My Projects]]"
 tags:
   - project
+  - python
+  - vyper
 Deadline: 2025-07-22
 ---
 ## Links
