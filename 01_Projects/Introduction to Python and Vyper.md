@@ -20,10 +20,8 @@ Deadline: 2025-07-22
 
 🎓 86 lessons
 
-calccc 4 projects
+🗓️ 4 projects
 
-20+ languages
-
-Beginner
+📈 Beginner
 ## Syllabus
 
