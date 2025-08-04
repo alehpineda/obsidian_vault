@@ -18,9 +18,9 @@ Deadline: 2025-07-22
 
 ⌚️ 6hrs
 
- 86 lessons
+🎓 86 lessons
 
-4 projects
+calccc 4 projects
 
 20+ languages
 
