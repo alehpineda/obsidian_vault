@@ -1,6 +1,6 @@
 ---
 Status: 
-Area: 
+Area: "[[Software Engineering]]"
 Links: "[[My Projects]]"
 tags:
   - project
