@@ -5,5 +5,7 @@ Links: "[[My Areas]]"
 ---
 ## Projects
 
-## Resources
+```
+```
 
+## Resources
