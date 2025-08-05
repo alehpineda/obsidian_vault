@@ -1,6 +1,7 @@
 ---
 tags:
   - area
+  - se
 Links: "[[My Areas]]"
 ---
 ## Projects

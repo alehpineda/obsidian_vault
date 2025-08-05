@@ -6,6 +6,7 @@ tags:
   - project
   - python
   - vyper
+  - se
 Deadline: 2025-07-22
 ---
 ## Links
