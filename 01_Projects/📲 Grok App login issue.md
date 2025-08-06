@@ -24,7 +24,7 @@ Deadline: 2025-07-22
 
 ```dataview
 list
-From [[]]
+From [[]] and #area 
 ```
 
 ## Related Resources
