@@ -10,7 +10,12 @@ Deadline: 2025-07-22
 
 ```dataview
 list
-From [[]] and #res
+From [[]] and #area
 ```
 
 ## Related Resources
+
+```dataview
+list
+From [[]] and #resource
+```
