@@ -11,7 +11,7 @@ Area: "[[Software Engineering]]"
 
 ## Highlights
 
-####  Why is this important?
+#### Why is this important?
 
 - Has documentation for popular development libraries
 
@@ -25,13 +25,14 @@ Area: "[[Software Engineering]]"
 
 - Test with ollama local models to improve reasoning
 
-## 
-Tested it locally with copilot using endpoint and docker container 
+## Testing
 
-Docker container has issues
+- Tested it locally with copilot using endpoint and docker container 
 
-Export documentation in txt or md files for local development is an option
+- Docker container has issues
 
-Limit 100k tokens as context for download
+- Export documentation in txt or md files for local development is an option
 
-Discovered duck duck go has an mcp server
+- Limit 100k tokens as context for download
+
+- Discovered duck duck go has an mcp server
