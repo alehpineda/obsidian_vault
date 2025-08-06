@@ -3,6 +3,12 @@ tags:
   - area
 Links: "[[My Areas]]"
 ---
+## Description
+
+## Goal
+
+## Motivation
+
 ## Related Projects
 
 ```dataview
