@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/resources_template.md",
+                "file": "Templates/area_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources_template"
+              "title": "area_template"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "1ad1fe4590051ba8",
   "lastOpenFiles": [
-    "00_Inbox/1password yubikey.md",
-    "Templates/resources_template.md",
-    "00_Inbox",
     "Templates/project_template.md",
     "Templates/area_template.md",
+    "Templates/resources_template.md",
+    "00_Inbox/1password yubikey.md",
+    "00_Inbox",
     "03_Resources/Context7 MCP Server.md",
     "02_Areas/Python Backend Dev.md",
     "02_Areas/Software Engineering.md",
