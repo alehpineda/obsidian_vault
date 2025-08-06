@@ -13,4 +13,6 @@ tags:
 
 ## Ideas
 
-## MVP
+#### Can I act now or later?
+
+
