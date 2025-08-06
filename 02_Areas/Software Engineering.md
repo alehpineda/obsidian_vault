@@ -8,11 +8,11 @@ Links: "[[My Areas]]"
 
 ```dataview
 Table status, deadline
-From [[]] and #project and #se
+From #project and #se
 ```
 ## Resources
 
 ```dataview
 list
-From [[]] and #resource and #se
+From #resource and #se
 ```

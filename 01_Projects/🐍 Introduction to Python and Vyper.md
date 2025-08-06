@@ -1,6 +1,5 @@
 ---
-Status: 
-Area: "[[Software Engineering]]"
+Status: Backlog
 Links: "[[My Projects]]"
 tags:
   - project
