@@ -35,4 +35,5 @@ Cybersecurity
 Later
 - Create 1password account
 - Migrate accounts from iOS to 1password
-- Use yubikey in 1password 
+- Use yubikey in 1password
+- Add it to my day to day

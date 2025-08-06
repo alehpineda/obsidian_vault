@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Resources/Yubikey 1password.md",
+                "file": "00_Inbox/Matrices are graphs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yubikey 1password"
+              "title": "Matrices are graphs"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "91b53587c97b973e",
   "lastOpenFiles": [
-    "00_Inbox/1password yubikey.md",
     "03_Resources/Yubikey 1password.md",
+    "00_Inbox/1password yubikey.md",
     "02_Areas/Python Backend Dev.md",
     "02_Areas/Software Engineering.md",
     "03_Resources/Context7 MCP Server.md",
