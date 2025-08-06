@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c6b1fc704cc4b09",
+        "id": "80423d4604a8da72",
         "type": "tabs",
         "children": [
           {
-            "id": "6079c8eda45e4a48",
+            "id": "0c91397dee309e45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Projects/🐍 Introduction to Python and Vyper.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🐍 Introduction to Python and Vyper"
+              "title": "New tab"
             }
           }
         ]
@@ -167,13 +162,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6079c8eda45e4a48",
+  "active": "0c91397dee309e45",
   "lastOpenFiles": [
+    "2025-08-06.md",
+    "04_Archives/Python pytest add Metadata.md",
+    "04_Archives/Obsidian ipad similar desktop experience.md",
     "Templates/resources_template.md",
     "Templates/area_template.md",
+    "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Templates/project_template.md",
     "02_Areas/Software Engineering.md",
-    "01_Projects/🐍 Introduction to Python and Vyper.md",
     "04_Archives/Fixed - Grok app login fix.md",
     "04_Archives/Context7 mcp server.md",
     "04_Archives/1password yubikey.md",
