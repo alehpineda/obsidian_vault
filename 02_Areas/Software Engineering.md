@@ -13,6 +13,6 @@ From [[]] and #project and #se
 ## Resources
 
 ```dataview
-Table status, deadline
-From [[]] and #project and #se
+list
+From [[]] and #resource and #se
 ```
