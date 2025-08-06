@@ -12,11 +12,6 @@ Deadline: 2025-08-10
 
 [Cyfrin Updraft web3 course](https://updraft.cyfrin.io/courses/intro-python-vyper-smart-contract-development)
 
-## Related Areas
-
-
-## Related Areas
-
 ## Description
 
 - Begin your journey as a Python and Vyper smart contract developer. 
@@ -26,4 +21,19 @@ Deadline: 2025-08-10
 ⌚️ 6hrs 🎓 86 lessons 🗓️ 4 projects 📈 Beginner
 
 ## Syllabus
+
+
+## Related Areas
+
+```dataview
+list
+From #area
+```
+
+## Related Resources
+
+```dataview
+list
+From #resource
+```
 
