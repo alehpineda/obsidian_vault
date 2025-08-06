@@ -16,17 +16,22 @@ Password and hardware security
 
 #### Did it triggered an emotional response?
 Bough several yubikeys
-1password recommended b
+1password recommended by several people
 
 ## Organize
 
 #### Does it relate to a project or area?
+Cybersecurity
 
 ## Distill
 
 #### This reminds me of:
 
+
 ## Express
 
 #### Can I act now or later?
 
+Later
+- Create 1password account
+- Migrate 
