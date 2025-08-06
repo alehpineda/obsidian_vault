@@ -1,5 +1,4 @@
 ---
 tags:
   - resource
-Area:
 ---
