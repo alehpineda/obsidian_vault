@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+  - cybersecurity
 ---
 ## CODE
 
@@ -11,9 +12,11 @@ tags:
 ## Collect
 
 #### Why is this important?
-Password and
+Password and hardware security
 
 #### Did it triggered an emotional response?
+Bough several yubikeys
+1password recommended b
 
 ## Organize
 
