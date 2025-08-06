@@ -5,6 +5,11 @@ tags:
   - project
 Deadline: 2025-07-22
 ---
+## Goal
+
+## Description
+
+
 ## Related Areas
 
 ```dataview
@@ -16,5 +21,5 @@ From #area
 
 ```dataview
 list
-From [[]] and #resource
+From #resource
 ```
