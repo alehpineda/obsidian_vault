@@ -27,7 +27,7 @@ Deadline: 2025-08-10
 
 ```dataview
 list
-From #area
+From #area and (#python or #vyper)
 ```
 
 ## Related Resources
