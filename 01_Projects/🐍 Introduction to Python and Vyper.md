@@ -6,7 +6,7 @@ tags:
   - python
   - vyper
   - se
-Deadline: 2025-07-22
+Deadline: 2025-08-10
 ---
 ## Links
 
