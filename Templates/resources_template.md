@@ -4,3 +4,8 @@ tags:
 ---
 ## Highlights
 
+#### Why is this important?
+
+## Ideas
+
+## MVP
