@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/Matrices are graphs.md",
+                "file": "03_Resources/Matrices are graphs.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,6 +168,8 @@
   },
   "active": "91b53587c97b973e",
   "lastOpenFiles": [
+    "00_Inbox/Matrices are graphs.md",
+    "03_Resources/Matrices are graphs.md",
     "03_Resources/Yubikey 1password.md",
     "00_Inbox/1password yubikey.md",
     "02_Areas/Python Backend Dev.md",
@@ -181,7 +183,6 @@
     "Templates/area_template.md",
     "00_Inbox",
     "My Projects.md",
-    "00_Inbox/Matrices are graphs.md",
     "04_Archives/Fixed - Grok app login fix.md",
     "README.md",
     "00_Inbox/Python module doctest.md",
@@ -194,7 +195,6 @@
     "2025-08-06.md",
     "03_Resources/Obsidian.md",
     "mcp.md",
-    "01_Projects/PARA Method in Obsidian.md",
-    "How to format notes in Obsidian.md"
+    "01_Projects/PARA Method in Obsidian.md"
   ]
 }
