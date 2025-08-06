@@ -4,11 +4,11 @@ tags:
   - se
 Area: "[[Software Engineering]]"
 ---
-Context7 [[mcp]]
+Has documentation for popular development libraries
 
-Has documentation for web3
-Vyper
-Web3.py
+Has documentation for web3:
+- Vyper
+- Web3.py
 
 Test mcp in personal laptop 
 
