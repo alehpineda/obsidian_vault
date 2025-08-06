@@ -25,7 +25,7 @@ Area: "[[Software Engineering]]"
 
 - Test with ollama local models to improve reasoning
 
-## Testing
+## MVP
 
 - Tested it locally with copilot using endpoint and docker container 
 
