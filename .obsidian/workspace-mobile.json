@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/area_template.md",
+                "file": "Templates/project_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "area_template"
+              "title": "project_template"
             }
           }
         ]
@@ -168,6 +168,8 @@
   },
   "active": "0c91397dee309e45",
   "lastOpenFiles": [
+    "Templates/resources_template.md",
+    "Templates/area_template.md",
     "03_Resources/Context7 MCP Server.md",
     "02_Areas/Python Backend Dev.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
@@ -177,9 +179,7 @@
     "04_Archives/Matrices are graphs.md",
     "04_Archives/📲 Grok App login issue.md",
     "Templates/project_template.md",
-    "Templates/area_template.md",
     "04_Archives/Fixed - Grok app login fix.md",
-    "Templates/resources_template.md",
     "README.md",
     "04_Archives/Python module doctest.md",
     "04_Archives/Context7 mcp server.md",

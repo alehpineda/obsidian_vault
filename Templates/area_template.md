@@ -14,5 +14,5 @@ From #project
 
 ```dataview
 list
-From [[]] and #resource
+From #resource
 ```

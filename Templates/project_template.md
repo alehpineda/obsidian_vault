@@ -1,6 +1,5 @@
 ---
 Status: 
-Area: 
 Links: "[[My Projects]]"
 tags:
   - project
@@ -10,7 +9,7 @@ Deadline: 2025-07-22
 
 ```dataview
 list
-From [[]] and #area
+From #area
 ```
 
 ## Related Resources
