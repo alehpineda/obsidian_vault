@@ -8,7 +8,7 @@ tags:
 - Organize
 - Distill
 - Express
-## Highlights
+## Collect
 
 #### Why is this important?
 
@@ -16,7 +16,9 @@ tags:
 
 #### This reminds me of:
 
+## Organize
 
+#### Does it relate to a #
 ## Ideas
 
 #### Can I act now or later?
