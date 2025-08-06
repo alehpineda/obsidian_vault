@@ -4,7 +4,6 @@ tags:
   - se
   - ai
   - mcp
-Area: "[[Software Engineering]]"
 ---
 ## Link
 
