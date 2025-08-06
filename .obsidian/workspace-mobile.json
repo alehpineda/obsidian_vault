@@ -166,8 +166,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad1fe4590051ba8",
+  "active": "42949893b2dce6bd",
   "lastOpenFiles": [
+    "Untitled",
     "Templates/project_template.md",
     "Templates/area_template.md",
     "Templates/resources_template.md",
@@ -192,7 +193,6 @@
     "03_Resources/Obsidian.md",
     "mcp.md",
     "01_Projects/PARA Method in Obsidian.md",
-    "How to format notes in Obsidian.md",
-    "How to use folders in Obsidian.md"
+    "How to format notes in Obsidian.md"
   ]
 }
