@@ -36,5 +36,3 @@ From #area and (#python or #vyper)
 list
 From #resource
 ```
-
-mg c
