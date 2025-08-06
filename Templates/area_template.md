@@ -7,7 +7,7 @@ Links: "[[My Areas]]"
 
 ```dataview
 list
-From [[]] and #project
+From #project
 ```
 
 ## Related Resources
