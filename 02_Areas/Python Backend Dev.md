@@ -15,5 +15,5 @@ From #project and #python
 
 ```dataview
 list
-From [[]] and #resource
+From [[]] and #resource and #python
 ```
