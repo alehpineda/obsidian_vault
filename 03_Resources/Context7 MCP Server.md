@@ -9,12 +9,17 @@ Area: "[[Software Engineering]]"
 [Context7](https://context7.com/)
 
 
-## 
+## Highlights
+
+### Why is this important
+
 - Has documentation for popular development libraries
 
 - Has documentation for web3:
 	- Vyper
 	- Web3.py
+
+## Ideas
 
 Test mcp in personal laptop 
 
