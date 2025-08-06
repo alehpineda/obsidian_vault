@@ -20,13 +20,11 @@ Deadline: 2025-07-22
 - Had to login manually in web browser using X credentials and 2fa.
 - Email address did not work.
 
-
-
 ## Related Areas
 
 ```dataview
 list
-From [[]] and #area
+From [[]]
 ```
 
 ## Related Resources
