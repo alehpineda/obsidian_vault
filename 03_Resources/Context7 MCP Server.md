@@ -11,7 +11,7 @@ Area: "[[Software Engineering]]"
 
 ## Highlights
 
-### Why is this important
+####  Why is this important?
 
 - Has documentation for popular development libraries
 
@@ -21,10 +21,11 @@ Area: "[[Software Engineering]]"
 
 ## Ideas
 
-Test mcp in personal laptop 
+- Test mcp in personal laptop 
 
-Test with ollama local models to improve reasoning
+- Test with ollama local models to improve reasoning
 
+## 
 Tested it locally with copilot using endpoint and docker container 
 
 Docker container has issues
