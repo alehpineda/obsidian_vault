@@ -18,9 +18,13 @@ tags:
 
 ## Organize
 
-#### Does it relate to a #
-## Ideas
+#### Does it relate to a project or area?
+
+## Distill
 
 #### Can I act now or later?
+
+## Express
+
 
 
