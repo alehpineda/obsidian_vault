@@ -8,7 +8,7 @@ Links: "[[My Areas]]"
 
 ```dataview
 Table status, deadline
-From [[]] and #project and #python
+From #project and #python
 ```
 
 ## Related Resources
