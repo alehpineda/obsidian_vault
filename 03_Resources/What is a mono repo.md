@@ -35,4 +35,8 @@ Later
 - Implement a mono repo for a future project
 
 Link
-- [Mono Repo grok]()
+- [Mono Repo grok explanation](https://x.com/i/grok/share/JULNa5MJn4GBaoJ98qAYp1cqS)
+
+Grok Response
+
+
