@@ -12,9 +12,11 @@ tags:
 ## Collect
 
 #### Why is this important?
-W2 
+Is something that is being implemented.
 
 #### Did it triggered an emotional response?
+I’m curious about it.
+Not sure if it will help 
 
 ## Organize
 
