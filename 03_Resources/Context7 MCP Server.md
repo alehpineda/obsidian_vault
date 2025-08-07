@@ -4,6 +4,7 @@ tags:
   - se
   - ai
   - mcp
+Links: My Resources
 ---
 ## Link
 
