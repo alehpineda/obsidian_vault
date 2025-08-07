@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/🐍 Introduction to Python and Vyper.md",
+                "file": "Templates/area_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🐍 Introduction to Python and Vyper"
+              "title": "area_template"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Templates/resources_template.md",
     "Templates/area_template.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
@@ -177,7 +178,6 @@
     "03_Resources/Yubikey 1password.md",
     "03_Resources/Matrices are graphs.md",
     "03_Resources/Context7 MCP Server.md",
-    "01_Projects/🐍 Introduction to Python and Vyper.md",
     "02_Areas/Python Backend Dev.md",
     "02_Areas/Software Engineering.md",
     "00_Inbox/Matrices are graphs.md",

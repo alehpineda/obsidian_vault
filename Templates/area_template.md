@@ -13,7 +13,7 @@ Links: "[[My Areas]]"
 
 ```dataview
 list
-From #project
+From #project and !"Templates"
 ```
 
 ## Related Resources
