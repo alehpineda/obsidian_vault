@@ -22,6 +22,7 @@ Could this help speed an arbitrage bot?
 ## Organize
 
 #### Does it relate to a project or area?
+Arbitrage bot
 
 ## Distill
 
@@ -30,4 +31,6 @@ Could this help speed an arbitrage bot?
 ## Express
 
 #### Can I act now or later?
+Later
+Have not found a problem where I can apply this knowledge
 
