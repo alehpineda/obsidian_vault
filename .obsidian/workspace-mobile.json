@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/Monorepo what is.md",
+                "file": "03_Resources/What is a mono repo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monorepo what is"
+              "title": "What is a mono repo"
+            }
+          },
+          {
+            "id": "fcdd5fc39b9f88e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,6 +178,8 @@
   },
   "active": "91b53587c97b973e",
   "lastOpenFiles": [
+    "03_Resources/What is a mono repo.md",
+    "00_Inbox/Monorepo what is.md",
     "00_Inbox/Matrices are graphs.md",
     "03_Resources/Matrices are graphs.md",
     "02_Areas/Python Backend Dev.md",
@@ -187,14 +199,12 @@
     "README.md",
     "00_Inbox/Python module doctest.md",
     "04_Archives/Context7 mcp server.md",
-    "00_Inbox/Monorepo what is.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
     "00_Inbox/Python pytest add Metadata.md",
     "00_Inbox/Python use Literal to restrict values.md",
     "00_Inbox/Save Twitter bookmarks to obsidian.md",
     "2025-08-06.md",
     "03_Resources/Obsidian.md",
-    "mcp.md",
-    "01_Projects/PARA Method in Obsidian.md"
+    "mcp.md"
   ]
 }
