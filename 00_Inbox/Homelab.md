@@ -11,5 +11,6 @@ Network
 - List of routers, switches, modems
 
 Projects
-- Use domain for https 
+- Setup Portainer
+- 
 
