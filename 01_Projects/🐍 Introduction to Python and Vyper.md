@@ -26,11 +26,9 @@ Deadline: 2025-08-10
 
 ## Related Areas
 
-```dataview
-list
-From #area and (#python or #vyper)
-```
-
+- [[Python Backend Dev]]
+- [[Software Engineering]]
+- 
 ## Related Resources
 
 ```dataview
