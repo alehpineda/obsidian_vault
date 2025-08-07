@@ -20,5 +20,5 @@ From #project and !"Templates"
 
 ```dataview
 list
-From #resource
+From #resource and !"Templates"
 ```

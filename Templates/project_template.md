@@ -15,12 +15,12 @@ Deadline: 2025-07-22
 
 ```dataview
 list
-From #area
+From #area and !"Templates"
 ```
 
 ## Related Resources
 
 ```dataview
 list
-From #resource
+From #resource and !"Templates"
 ```
