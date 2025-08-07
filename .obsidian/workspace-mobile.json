@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/area_template.md",
+                "file": "01_Projects/🐍 Introduction to Python and Vyper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "area_template"
+              "title": "🐍 Introduction to Python and Vyper"
             }
           }
         ]
@@ -168,10 +168,11 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "Templates/resources_template.md",
+    "Templates/area_template.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
     "00_Inbox/Monorepo what is.md",
     "03_Resources/What is a mono repo.md",
-    "Templates/area_template.md",
     "04_Archives/📲 Grok App login issue.md",
     "03_Resources/Yubikey 1password.md",
     "03_Resources/Matrices are graphs.md",
@@ -183,7 +184,6 @@
     "00_Inbox/1password yubikey.md",
     "Untitled",
     "Templates/project_template.md",
-    "Templates/resources_template.md",
     "00_Inbox",
     "My Projects.md",
     "04_Archives/Fixed - Grok app login fix.md",
