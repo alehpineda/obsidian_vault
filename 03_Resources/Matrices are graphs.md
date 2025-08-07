@@ -13,7 +13,8 @@ tags:
 ## Collect
 
 #### Why is this important?
-
+Matrices are graphs
+Use nx python libraryw
 
 #### Did it triggered an emotional response?
 
