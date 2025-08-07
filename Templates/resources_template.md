@@ -1,7 +1,7 @@
 ---
 tags:
   - resource
-Links: My Resources
+Links: 🥇 My Resources
 ---
 ## CODE
 
