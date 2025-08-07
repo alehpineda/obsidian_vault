@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/Obsidian ipad similar desktop experience.md",
+                "file": "Templates/area_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian ipad similar desktop experience"
+              "title": "area_template"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "00_Inbox/Obsidian ipad similar desktop experience.md",
     "00_Inbox/Monorepo what is.md",
     "03_Resources/What is a mono repo.md",
     "Templates/area_template.md",
@@ -189,7 +190,6 @@
     "README.md",
     "00_Inbox/Python module doctest.md",
     "04_Archives/Context7 mcp server.md",
-    "00_Inbox/Obsidian ipad similar desktop experience.md",
     "00_Inbox/Python pytest add Metadata.md",
     "00_Inbox/Python use Literal to restrict values.md",
     "00_Inbox/Save Twitter bookmarks to obsidian.md",
