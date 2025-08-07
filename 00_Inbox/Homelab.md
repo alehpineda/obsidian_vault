@@ -17,4 +17,6 @@ Projects
 - Setup star subdomains with my cloud flare domain.
 - Setup Arr Stack in mini pc
 - Setup tailscale in mini pc
-- Setup 
+- Setup file sharing for hdd with games
+- Setup file sharing for media hdd
+- 
