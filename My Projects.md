@@ -3,6 +3,7 @@
 ```dataview
 Table status, deadline
 From #project and !"Templates"
+where status = "In Progress"
 ```
 
 ### Backlog
