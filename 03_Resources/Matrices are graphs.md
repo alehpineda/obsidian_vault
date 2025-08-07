@@ -14,7 +14,7 @@ tags:
 
 #### Why is this important?
 Matrices are graphs
-Use nx python library to solve matrices 
+Use case for nx python library to solve matrices 
 
 #### Did it triggered an emotional response?
 Could this help speed an arbitrage bot?
