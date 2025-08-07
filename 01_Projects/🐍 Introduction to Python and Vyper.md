@@ -34,5 +34,5 @@ From #area and (#python or #vyper)
 
 ```dataview
 list
-From #resource and !#Templates
+From #resource and !¡Templates
 ```
