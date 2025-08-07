@@ -63,7 +63,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:python",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
