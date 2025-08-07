@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/🚧 My Projects.md",
+                "file": "My Areas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🚧 My Projects"
+              "title": "My Areas"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "🚧 My Projects.md",
     "My Areas.md",
     "02_Areas/Python Backend Dev.md",
     "Templates/area_template.md",
     "README.md",
-    "01_Projects/🚧 My Projects.md",
     "02_Areas/Software Engineering.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Templates/project_template.md",
