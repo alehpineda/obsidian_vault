@@ -1,4 +1,5 @@
 ### Actives
+
 ```dataview
 Table status, deadline
 From #project and !"Templates"
