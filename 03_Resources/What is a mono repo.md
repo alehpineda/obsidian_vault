@@ -12,15 +12,17 @@ tags:
 ## Collect
 
 #### Why is this important?
-Is something that is being implemented.
+Is something that is being implemented in other companies.
 
 #### Did it triggered an emotional response?
 I’m curious about it.
-Not sure if it will help 
+Not sure if it will help in my workflow
 
 ## Organize
 
 #### Does it relate to a project or area?
+#se 
+[[Software Engineering]]
 
 ## Distill
 
@@ -29,4 +31,5 @@ Not sure if it will help
 ## Express
 
 #### Can I act now or later?
-
+Later
+- Implement a mono
