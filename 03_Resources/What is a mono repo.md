@@ -12,7 +12,7 @@ tags:
 ## Collect
 
 #### Why is this important?
-
+W2 
 
 #### Did it triggered an emotional response?
 
