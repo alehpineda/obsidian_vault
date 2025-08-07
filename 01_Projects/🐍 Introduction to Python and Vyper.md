@@ -8,7 +8,6 @@ tags:
   - se
 Deadline: 2025-08-10
 ---
-
 ## Links
 
 [Cyfrin Updraft web3 course](https://updraft.cyfrin.io/courses/intro-python-vyper-smart-contract-development)
@@ -28,7 +27,7 @@ Deadline: 2025-08-10
 
 - [[Python Backend Dev]]
 - [[Software Engineering]]
-- 
+
 ## Related Resources
 
 ```dataview
