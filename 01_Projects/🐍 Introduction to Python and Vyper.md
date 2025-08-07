@@ -7,6 +7,7 @@ tags:
   - vyper
   - se
 Deadline: 2025-08-10
+Area:
 ---
 ## Links
 
