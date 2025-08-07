@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+  - se
 ---
 ## CODE
 
