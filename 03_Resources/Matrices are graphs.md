@@ -2,6 +2,7 @@
 tags:
   - resource
   - python
+  - math
 ---
 ## CODE
 
@@ -12,6 +13,7 @@ tags:
 ## Collect
 
 #### Why is this important?
+
 
 #### Did it triggered an emotional response?
 
