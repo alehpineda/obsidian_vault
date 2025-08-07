@@ -1,4 +1,5 @@
+
 ```dataview
 Table status, deadline
-From #project and
+From #project and !"Templates"
 ```
