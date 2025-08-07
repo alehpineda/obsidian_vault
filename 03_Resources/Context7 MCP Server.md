@@ -4,7 +4,7 @@ tags:
   - se
   - ai
   - mcp
-Links: 🥇 My Resources
+Links: "[[🥇 My Resources]]"
 ---
 ## Link
 

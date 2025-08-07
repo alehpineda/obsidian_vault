@@ -2,7 +2,7 @@
 tags:
   - resource
   - se
-Links: 🥇 My Resources
+Links: "[[🥇 My Resources]]"
 ---
 ## CODE
 

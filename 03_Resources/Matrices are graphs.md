@@ -3,7 +3,7 @@ tags:
   - resource
   - python
   - math
-Links: 🥇 My Resources
+Links: "[[🥇 My Resources]]"
 ---
 ## CODE
 

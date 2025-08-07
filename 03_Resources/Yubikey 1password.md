@@ -2,7 +2,7 @@
 tags:
   - resource
   - cybersecurity
-Links: 🥇 My Resources
+Links: "[[🥇 My Resources]]"
 ---
 ## CODE
 
