@@ -7,8 +7,8 @@ tags:
   - vyper
   - se
 Deadline: 2025-08-10
-Area:
 ---
+
 ## Links
 
 [Cyfrin Updraft web3 course](https://updraft.cyfrin.io/courses/intro-python-vyper-smart-contract-development)
