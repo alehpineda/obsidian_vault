@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Python Backend Dev.md",
+                "file": "01_Projects/🐍 Introduction to Python and Vyper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Backend Dev"
+              "title": "🐍 Introduction to Python and Vyper"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "02_Areas/Python Backend Dev.md",
     "03_Resources/Yubikey 1password.md",
     "03_Resources/What is a mono repo.md",
     "03_Resources/Matrices are graphs.md",
@@ -177,7 +178,6 @@
     "🖥️ My Areas.md",
     "🚧 My Projects.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
-    "02_Areas/Python Backend Dev.md",
     "Templates/area_template.md",
     "README.md",
     "Templates/project_template.md",
