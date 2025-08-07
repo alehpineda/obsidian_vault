@@ -13,6 +13,7 @@ tags:
 
 #### Why is this important?
 
+
 #### Did it triggered an emotional response?
 
 ## Organize
