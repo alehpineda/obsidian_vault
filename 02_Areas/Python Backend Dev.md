@@ -2,7 +2,7 @@
 tags:
   - area
   - python
-Links: "[[My Areas]]"
+Links: "[[🖥️ My Areas]]"
 ---
 ## Related Projects
 

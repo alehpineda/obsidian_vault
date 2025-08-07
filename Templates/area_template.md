@@ -1,7 +1,7 @@
 ---
 tags:
   - area
-Links: "[[My Areas]]"
+Links: "[[🖥️ My Areas]]"
 ---
 ## Description
 

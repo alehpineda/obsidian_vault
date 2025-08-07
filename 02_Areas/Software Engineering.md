@@ -2,7 +2,7 @@
 tags:
   - area
   - se
-Links: "[[My Areas]]"
+Links: "[[🖥️ My Areas]]"
 ---
 ## Projects
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Areas.md",
+                "file": "🖥️ My Areas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Areas"
+              "title": "🖥️ My Areas"
             }
           }
         ]
@@ -169,7 +169,7 @@
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
     "🚧 My Projects.md",
-    "My Areas.md",
+    "🖥️ My Areas.md",
     "02_Areas/Python Backend Dev.md",
     "Templates/area_template.md",
     "README.md",
