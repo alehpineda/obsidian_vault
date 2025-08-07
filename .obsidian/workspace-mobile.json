@@ -11,14 +11,10 @@
             "id": "4dd58545466ac542",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My Projects"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,8 +164,9 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "README.md",
+    "01_Projects/My Projects.md",
     "02_Areas/Software Engineering.md",
-    "My Projects.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Templates/area_template.md",
     "Templates/project_template.md",
@@ -187,7 +184,6 @@
     "Untitled",
     "00_Inbox",
     "04_Archives/Fixed - Grok app login fix.md",
-    "README.md",
     "00_Inbox/Python module doctest.md",
     "04_Archives/Context7 mcp server.md",
     "00_Inbox/Python pytest add Metadata.md",
