@@ -32,4 +32,7 @@ Not sure if it will help in my workflow
 
 #### Can I act now or later?
 Later
-- Implement a mono
+- Implement a mono repo for a future project
+
+Link
+- [Mono Repo grok]()
