@@ -14,7 +14,7 @@ tags:
 
 #### Why is this important?
 Matrices are graphs
-Use nx python libraryw
+Use nx python library
 
 #### Did it triggered an emotional response?
 
