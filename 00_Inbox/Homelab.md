@@ -12,5 +12,7 @@ Network
 
 Projects
 - Setup Portainer on mini pc
-- Setup traefik as reverse proxy with https on mini pc.
+- Setup traefik as reverse proxy with https on mini pc in portainer
+- Update portainer to use https with traefik
+- Setup 
 
