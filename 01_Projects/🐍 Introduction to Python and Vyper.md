@@ -1,6 +1,6 @@
 ---
 Status: Backlog
-Links: "[[My Projects]]"
+Links: "[[🚧 My Projects]]"
 tags:
   - project
   - python

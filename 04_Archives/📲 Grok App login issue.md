@@ -1,7 +1,7 @@
 ---
 Status: Done
 Area: "[[Software Engineering]]"
-Links: "[[My Projects]]"
+Links: "[[🚧 My Projects]]"
 tags:
   - project
   - se
