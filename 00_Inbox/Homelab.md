@@ -12,6 +12,7 @@ Network
 
 Projects
 - Setup Tailscale
+- Setup ansible and docker repository for documenting homelab
 - Setup Portainer on mini pc
 - Setup traefik as reverse proxy with https on mini pc in portainer.
 - Update portainer to use https with traefik.
@@ -21,3 +22,5 @@ Projects
 - Setup file sharing for hdd with games
 - Setup file sharing for media hdd
 - Setup plex and jellyfish? 
+- Research code as infraestructure for homelab
+- Setup gitlab for local repositories and docker rep
