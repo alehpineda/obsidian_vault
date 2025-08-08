@@ -23,4 +23,4 @@ Projects
 - Setup file sharing for media hdd
 - Setup plex and jellyfish? 
 - Research code as infraestructure for homelab
-- Setup gitlab for local repositories and docker rep
+- Setup gitlab for local repositories and docker repository.
