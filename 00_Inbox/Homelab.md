@@ -11,6 +11,7 @@ Network
 - List of routers, switches, modems
 
 Projects
+- Setup Tailscale
 - Setup Portainer on mini pc
 - Setup traefik as reverse proxy with https on mini pc in portainer.
 - Update portainer to use https with traefik.
@@ -19,4 +20,4 @@ Projects
 - Setup tailscale in mini pc
 - Setup file sharing for hdd with games
 - Setup file sharing for media hdd
-- 
+- Setup plex and jellyfish? 
