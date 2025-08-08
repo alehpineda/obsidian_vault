@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/Homelab.md",
+                "file": "00_Inbox/Web3 Bot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homelab"
+              "title": "Web3 Bot"
             }
           }
         ]
@@ -168,12 +168,13 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "00_Inbox/Homelab.md",
+    "00_Inbox/Web3 Bot.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Templates/project_template.md",
     "Templates/area_template.md",
     "02_Areas/Python Backend Dev.md",
-    "00_Inbox/Homelab.md",
     "03_Resources/Yubikey 1password.md",
     "03_Resources/What is a mono repo.md",
     "03_Resources/Matrices are graphs.md",
@@ -194,7 +195,6 @@
     "04_Archives/Context7 mcp server.md",
     "00_Inbox/Python pytest add Metadata.md",
     "00_Inbox/Python use Literal to restrict values.md",
-    "00_Inbox/Save Twitter bookmarks to obsidian.md",
-    "2025-08-06.md"
+    "00_Inbox/Save Twitter bookmarks to obsidian.md"
   ]
 }
