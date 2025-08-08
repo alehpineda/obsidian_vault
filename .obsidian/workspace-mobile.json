@@ -11,10 +11,14 @@
             "id": "4dd58545466ac542",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "🥇 My Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🥇 My Resources"
             }
           }
         ]
@@ -164,6 +168,8 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "03_Resources/Context7 MCP Server.md",
+    "🥇 My Resources.md",
     "00_Inbox/Homelab.md",
     "00_Inbox/Web3 Bot.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
@@ -174,7 +180,6 @@
     "03_Resources/Yubikey 1password.md",
     "03_Resources/What is a mono repo.md",
     "03_Resources/Matrices are graphs.md",
-    "03_Resources/Context7 MCP Server.md",
     "Templates/resources_template.md",
     "02_Areas/Software Engineering.md",
     "🖥️ My Areas.md",
@@ -190,7 +195,6 @@
     "00_Inbox/Python module doctest.md",
     "04_Archives/Context7 mcp server.md",
     "00_Inbox/Python pytest add Metadata.md",
-    "00_Inbox/Python use Literal to restrict values.md",
-    "00_Inbox/Save Twitter bookmarks to obsidian.md"
+    "00_Inbox/Python use Literal to restrict values.md"
   ]
 }
