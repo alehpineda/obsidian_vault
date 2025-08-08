@@ -4,3 +4,7 @@ Obsidian Vault Backup
 
 # [[🚧 My Projects]]
 
+# [[🖥️ My Areas]]
+
+
+

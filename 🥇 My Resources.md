@@ -1,5 +1,5 @@
 
 ```dataview
 List
-From [[🥇 My Resources]] and #resource 
+From [[🥇 My Resources]] and #resource and !"Templates"
 ```
