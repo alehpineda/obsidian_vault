@@ -6,5 +6,5 @@ Obsidian Vault Backup
 
 # [[🖥️ My Areas]]
 
-
+# [[🥇 My Resources]]
 
