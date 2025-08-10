@@ -23,7 +23,7 @@ Not sure if it will help in my workflow
 
 #### Does it relate to a project, area, or tag?
 #se 
-[[Software Engineering]]
+[[A_Software_Engineering]]
 
 ## Distill
 

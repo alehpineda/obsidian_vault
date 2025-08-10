@@ -41,6 +41,6 @@ Links: "[[🥇 My Resources]]"
 
 ## Related Areas
 
-- [[Python Backend Dev]]
-- [[Software Engineering]]
-- [[Vyper Dev]]
+- [[A_Python_Backend_Dev]]
+- [[A_Software_Engineering]]
+- [[A_Vyper_Dev]]

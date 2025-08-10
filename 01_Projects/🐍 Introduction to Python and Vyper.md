@@ -25,8 +25,8 @@ Deadline: 2025-08-10
 
 ## Related Areas
 
-- [[Python Backend Dev]]
-- [[Software Engineering]]
+- [[A_Python_Backend_Dev]]
+- [[A_Software_Engineering]]
 
 ## Related Resources
 
