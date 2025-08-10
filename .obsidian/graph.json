@@ -1,20 +1,12 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "file:A_Python_Backend_Dev",
-      "color": {
-        "a": 1,
-        "rgb": 7781184
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -26,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 2.206896761524452,
-  "close": false
+  "close": true
 }
