@@ -12,7 +12,6 @@ From #project and #se
 ```
 ## Resources
 
-```dataview
-list
-From #resource and #se
-```
+- [[R_context7_mcp_server]]
+- [[R_what_is_a_mono_repo]]
+- [[R_yubikey_1password]]
