@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Vyper Dev/Vyper Dev.md",
+                "file": "02_Areas/Vyper Dev/Context7 MCP Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vyper Dev"
+              "title": "Context7 MCP Server"
             }
           }
         ]
@@ -166,12 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42949893b2dce6bd",
+  "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "02_Areas/Vyper Dev/Matrices are graphs.md",
+    "02_Areas/Vyper Dev/Vyper Dev.md",
+    "03_Resources/What is a mono repo.md",
     "02_Areas/Vyper Dev",
     "02_Areas/Python Backend Dev/Python Backend Dev.md",
-    "02_Areas/Vyper Dev/Vyper Dev.md",
-    "03_Resources/Context7 MCP Server.md",
+    "02_Areas/Vyper Dev/Context7 MCP Server.md",
     "Templates/project_template.md",
     "02_Areas/Software Engineering",
     "02_Areas/Python Backend Dev",
@@ -186,8 +188,6 @@
     "00_Inbox/Obsidian ipad similar desktop experience.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
     "03_Resources/Yubikey 1password.md",
-    "03_Resources/What is a mono repo.md",
-    "03_Resources/Matrices are graphs.md",
     "02_Areas/Software Engineering/Software Engineering.md",
     "🖥️ My Areas.md",
     "🚧 My Projects.md",
