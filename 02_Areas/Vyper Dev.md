@@ -5,7 +5,11 @@ Links: "[[🖥️ My Areas]]"
 ---
 ## Description
 
+Web3 path for developing smart contracts and arbitrage bots
+
 ## Goal
+
+Develop profitable arbitra
 
 ## Motivation
 
@@ -18,4 +22,5 @@ From #project and #vyper and !"Templates"
 
 ## Related Resources
 
-- [[]]
+- [[Context7 MCP Server]]
+- 
