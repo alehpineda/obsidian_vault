@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Vyper Dev.md",
+                "file": "02_Areas/Vyper Dev/Vyper Dev.md",
                 "mode": "source",
                 "source": false
               },
@@ -166,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dd58545466ac542",
+  "active": "42949893b2dce6bd",
   "lastOpenFiles": [
+    "02_Areas/Vyper Dev",
     "02_Areas/Python Backend Dev/Python Backend Dev.md",
-    "02_Areas/Vyper Dev.md",
+    "02_Areas/Vyper Dev/Vyper Dev.md",
     "03_Resources/Context7 MCP Server.md",
     "Templates/project_template.md",
     "02_Areas/Software Engineering",
@@ -196,7 +197,6 @@
     "Untitled",
     "00_Inbox",
     "04_Archives/Fixed - Grok app login fix.md",
-    "00_Inbox/Python module doctest.md",
-    "04_Archives/Context7 mcp server.md"
+    "00_Inbox/Python module doctest.md"
   ]
 }
