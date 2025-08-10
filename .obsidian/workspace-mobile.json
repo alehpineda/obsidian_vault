@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Archives/📲 Grok App login issue.md",
+                "file": "Templates/project_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📲 Grok App login issue"
+              "title": "project_template"
             }
           }
         ]
@@ -168,11 +168,12 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "Templates/area_template.md",
+    "04_Archives/📲 Grok App login issue.md",
     "README.md",
     "🥇 My Resources.md",
     "Templates/resources_template.md",
     "Templates/project_template.md",
-    "Templates/area_template.md",
     "00_Inbox/Python.md",
     "00_Inbox/Web3 Bot.md",
     "03_Resources/Context7 MCP Server.md",
@@ -187,7 +188,6 @@
     "🖥️ My Areas.md",
     "🚧 My Projects.md",
     "00_Inbox/Monorepo what is.md",
-    "04_Archives/📲 Grok App login issue.md",
     "00_Inbox/Matrices are graphs.md",
     "00_Inbox/1password yubikey.md",
     "Untitled",
