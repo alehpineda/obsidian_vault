@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Resources/R_what_is_a_mono_repo.md",
+                "file": "02_Areas/Software Engineering/A_Software_Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R_what_is_a_mono_repo"
+              "title": "A_Software_Engineering"
             }
           }
         ]
@@ -168,14 +168,15 @@
   },
   "active": "4dd58545466ac542",
   "lastOpenFiles": [
-    "03_Resources/R_matrices_are_graphs.md",
-    "03_Resources/R_context7_mcp_server.md",
     "02_Areas/Vyper Dev/A_Vyper_Dev.md",
+    "03_Resources/R_yubikey_1password.md",
+    "03_Resources/R_matrices_are_graphs.md",
+    "03_Resources/R_what_is_a_mono_repo.md",
+    "03_Resources/R_context7_mcp_server.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
     "🖥️ My Areas.md",
     "🚧 My Projects.md",
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
-    "03_Resources/R_what_is_a_mono_repo.md",
     "02_Areas/Vyper Dev",
     "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
     "Templates/project_template.md",
@@ -190,7 +191,6 @@
     "00_Inbox/Web3 Bot.md",
     "00_Inbox/Homelab.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
-    "03_Resources/R_yubikey_1password.md",
     "00_Inbox/Monorepo what is.md",
     "00_Inbox/Matrices are graphs.md",
     "00_Inbox/1password yubikey.md",

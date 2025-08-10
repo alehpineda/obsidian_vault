@@ -38,3 +38,7 @@ Later
 - Migrate accounts from iOS to 1password
 - Use yubikey in 1password
 - Add it to my day to day
+
+## Related Areas
+
+[[A_Software_Engineering]]
