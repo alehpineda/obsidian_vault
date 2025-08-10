@@ -18,11 +18,10 @@ Web3 path for developing smart contracts and arbitrage bots
 ## Related Projects
 
 ```dataview
-list
-From #project and #vyper and !"Templates"
+Table status, deadline
+From #project and #vyper
 ```
-
 ## Related Resources
 
 - [[R_context7_mcp_server]]
-- 
+- [[R_matrices_are_graphs]]
