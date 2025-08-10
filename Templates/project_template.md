@@ -18,10 +18,3 @@ Area:
 list
 From #area and !"Templates"
 ```
-
-## Related Resources
-
-```dataview
-list
-From #resource and !"Templates"
-```
