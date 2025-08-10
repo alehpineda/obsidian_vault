@@ -24,5 +24,5 @@ From #project and #vyper and !"Templates"
 
 ## Related Resources
 
-- [[Context7 MCP Server]]
+- [[R_context7_mcp_server]]
 - 
