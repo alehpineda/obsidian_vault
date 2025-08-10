@@ -36,3 +36,7 @@ Arbitrage bot
 Later
 Have not found a problem where I can apply this knowledge
 
+## Related Areas
+
+- [[A_Python_Backend_Dev]]
+- [[A_Vyper_Dev]]
