@@ -13,12 +13,9 @@ Links: "[[🖥️ My Areas]]"
 
 ```dataview
 list
-From #project and !"Templates"
+From #project and #vyper and !"Templates"
 ```
 
 ## Related Resources
 
-```dataview
-list
-From #resource and !"Templates"
-```
+- [[]]
