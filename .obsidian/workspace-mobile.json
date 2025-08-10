@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/🐍 Introduction to Python and Vyper.md",
+                "file": "🖥️ My Areas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🐍 Introduction to Python and Vyper"
+              "title": "🖥️ My Areas"
             }
           }
         ]
@@ -166,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42949893b2dce6bd",
+  "active": "4dd58545466ac542",
   "lastOpenFiles": [
+    "🚧 My Projects.md",
+    "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "02_Areas/Vyper Dev/R_context7_mcp_server.md",
     "02_Areas/Vyper Dev/Matrices are graphs.md",
     "02_Areas/Vyper Dev/A_Vyper_Dev.md",
@@ -186,11 +188,9 @@
     "00_Inbox/Web3 Bot.md",
     "00_Inbox/Homelab.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
-    "01_Projects/🐍 Introduction to Python and Vyper.md",
-    "03_Resources/Yubikey 1password.md",
+    "03_Resources/R_yubikey_1password.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
     "🖥️ My Areas.md",
-    "🚧 My Projects.md",
     "00_Inbox/Monorepo what is.md",
     "00_Inbox/Matrices are graphs.md",
     "00_Inbox/1password yubikey.md",
