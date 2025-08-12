@@ -1,1 +1,2 @@
-- Use the GitHub Resources
+- Use the GitHub Resources link.
+- Use dis
