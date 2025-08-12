@@ -1,2 +1,3 @@
-- Use the GitHub Resources link.
-- Use dis
+- Use the GitHub Resources [link](https://github.com/Cyfrin/moccasin-full-course-cu).
+- Use GitHub Discusions
+- 
