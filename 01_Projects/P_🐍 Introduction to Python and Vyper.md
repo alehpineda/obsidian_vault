@@ -24,6 +24,7 @@ Deadline: 2025-08-10
 
 - Section 1
 	- [[Welcome]]
+	- [[Best Practices]]
 	- 
 
 
