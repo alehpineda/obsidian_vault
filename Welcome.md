@@ -1,3 +1,4 @@
 - Why Vyper?
 	- 3% of the TVL in all web3 ecosystem.
-	- Curve, Yearn, 
+	- Curve, Yearn, use Vyper.
+	- Vyper is easier to use, learn, read compared to Solidity.
