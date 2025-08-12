@@ -1,0 +1,3 @@
+- Why Vyper?
+	- 3% of the TVL in all web3 ecosystem.
+	- Curve, Yearn, 

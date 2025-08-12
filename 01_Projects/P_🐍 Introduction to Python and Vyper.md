@@ -23,6 +23,7 @@ Deadline: 2025-08-10
 ## Syllabus
 
 - Section 1
+	- [[Welcome]]
 	- 
 
 
