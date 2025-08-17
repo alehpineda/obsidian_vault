@@ -11,10 +11,14 @@
             "id": "ae47e863d7ae99d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Areas/Vyper Dev/A_Vyper_Dev.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "A_Vyper_Dev"
             }
           }
         ]
