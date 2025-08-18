@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Vyper Dev/A_Vyper_Dev.md",
+                "file": "00_Inbox/Archon OS BMAD Method in VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A_Vyper_Dev"
+              "title": "Archon OS BMAD Method in VSCode"
             }
           }
         ]
@@ -168,9 +168,11 @@
   },
   "active": "ae47e863d7ae99d4",
   "lastOpenFiles": [
+    "00_Inbox/Homelab.md",
+    "00_Inbox/Archon OS BMAD Method in VSCode.md",
+    "02_Areas/Vyper Dev/A_Vyper_Dev.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
     "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
-    "02_Areas/Vyper Dev/A_Vyper_Dev.md",
     "Best Practices.md",
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "Welcome.md",
@@ -191,13 +193,11 @@
     "README.md",
     "🥇 My Resources.md",
     "00_Inbox/Python.md",
-    "00_Inbox/Homelab.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
     "00_Inbox/Monorepo what is.md",
     "00_Inbox/Matrices are graphs.md",
     "00_Inbox/1password yubikey.md",
     "Untitled",
-    "00_Inbox",
-    "04_Archives/Fixed - Grok app login fix.md"
+    "00_Inbox"
   ]
 }
