@@ -13,7 +13,7 @@ Network
 - List of routers, switches, modems
 
 Projects
-- Setup Tailscale
+- Setup Tailscale, docker containers
 - Setup ansible and docker repository for documenting homelab
 - Setup Portainer on mini pc
 - Setup traefik as reverse proxy with https on mini pc in portainer.
