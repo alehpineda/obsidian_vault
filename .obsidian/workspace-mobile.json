@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/Homelab.md",
+                "file": "00_Inbox/Vscode mcp servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homelab"
+              "title": "Vscode mcp servers"
             }
           }
         ]
@@ -168,9 +168,15 @@
   },
   "active": "ae47e863d7ae99d4",
   "lastOpenFiles": [
+    "00_Inbox/Save Twitter bookmarks to obsidian.md",
+    "00_Inbox/Python use Literal to restrict values.md",
+    "00_Inbox/Python pytest add Metadata.md",
+    "00_Inbox/Python.md",
+    "00_Inbox/Python module doctest.md",
+    "00_Inbox/Obsidian ipad similar desktop experience.md",
+    "00_Inbox/Homelab.md",
     "03_Resources/R_context7_mcp_server.md",
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
-    "00_Inbox/Homelab.md",
     "02_Areas/Vyper Dev/A_Vyper_Dev.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
     "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
@@ -191,12 +197,6 @@
     "02_Areas/Python Backend Dev",
     "04_Archives/📲 Grok App login issue.md",
     "README.md",
-    "🥇 My Resources.md",
-    "00_Inbox/Python.md",
-    "00_Inbox/Obsidian ipad similar desktop experience.md",
-    "00_Inbox/Monorepo what is.md",
-    "00_Inbox/Matrices are graphs.md",
-    "00_Inbox/1password yubikey.md",
     "Untitled",
     "00_Inbox"
   ]
