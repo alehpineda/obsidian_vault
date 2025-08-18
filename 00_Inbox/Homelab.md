@@ -17,6 +17,8 @@ Projects
 - Setup ansible and docker repository for documenting homelab
 - Setup Portainer on mini pc
 - Setup traefik as reverse proxy with https on mini pc in portainer.
+- Setup pertainer to use IaC either from gitlab or github
+- Setup gitlab container.
 - Update portainer to use https with traefik.
 - Setup star subdomains with my cloud flare domain.
 - Setup Arr Stack in mini pc
