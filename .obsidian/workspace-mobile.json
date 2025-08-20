@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab55c13e148bc6b",
+        "id": "222ecc6f001665f4",
         "type": "tabs",
         "children": [
           {
-            "id": "4dd58545466ac542",
+            "id": "ae47e863d7ae99d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Vyper Dev/A_Vyper_Dev.md",
+                "file": "00_Inbox/Web3 Bot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A_Vyper_Dev"
+              "title": "Web3 Bot"
             }
           }
         ]
@@ -166,37 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dd58545466ac542",
+  "active": "ae47e863d7ae99d4",
   "lastOpenFiles": [
-    "02_Areas/Software Engineering/A_Software_Engineering.md",
+    "00_Inbox/Vscode mcp servers.md",
+    "00_Inbox/Save Twitter bookmarks to obsidian.md",
+    "00_Inbox/Python use Literal to restrict values.md",
+    "00_Inbox/Python pytest add Metadata.md",
+    "00_Inbox/Python.md",
+    "00_Inbox/Python module doctest.md",
+    "00_Inbox/Obsidian ipad similar desktop experience.md",
+    "00_Inbox/Homelab.md",
+    "03_Resources/R_context7_mcp_server.md",
+    "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "02_Areas/Vyper Dev/A_Vyper_Dev.md",
+    "02_Areas/Software Engineering/A_Software_Engineering.md",
     "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
+    "Best Practices.md",
+    "01_Projects/P_🐍 Introduction to Python and Vyper.md",
+    "Welcome.md",
+    "00_Inbox/Web3 Bot.md",
+    "Templates/area_template.md",
+    "Templates/project_template.md",
+    "Templates/resources_template.md",
     "03_Resources/R_yubikey_1password.md",
     "03_Resources/R_matrices_are_graphs.md",
     "03_Resources/R_what_is_a_mono_repo.md",
-    "03_Resources/R_context7_mcp_server.md",
     "🖥️ My Areas.md",
     "🚧 My Projects.md",
-    "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "02_Areas/Vyper Dev",
-    "Templates/project_template.md",
     "02_Areas/Software Engineering",
     "02_Areas/Python Backend Dev",
-    "Templates/area_template.md",
     "04_Archives/📲 Grok App login issue.md",
-    "README.md",
-    "🥇 My Resources.md",
-    "Templates/resources_template.md",
-    "00_Inbox/Python.md",
-    "00_Inbox/Web3 Bot.md",
-    "00_Inbox/Homelab.md",
-    "00_Inbox/Obsidian ipad similar desktop experience.md",
-    "00_Inbox/Monorepo what is.md",
-    "00_Inbox/Matrices are graphs.md",
-    "00_Inbox/1password yubikey.md",
     "Untitled",
-    "00_Inbox",
-    "04_Archives/Fixed - Grok app login fix.md",
-    "00_Inbox/Python module doctest.md"
+    "00_Inbox"
   ]
 }

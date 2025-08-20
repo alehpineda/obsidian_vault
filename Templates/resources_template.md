@@ -27,3 +27,9 @@ Links: "[[🥇 My Resources]]"
 
 #### Can I act now or later?
 
+
+## Related Areas
+
+
+## Related Projects
+

@@ -1,0 +1,14 @@
+
+- Archon OS - MCP server, agent that creates agents.
+	- Install in dev pc, containers ideally
+	- Investigate api keys
+	- Ollama local models
+- BMAD Method
+	- Watch video walkthrough
+		- Colin Medin
+		- BMAD method
+	- Install for vscode
+	- Test agentic mode
+	- Test full stack agents
+	- Test devops agents
+
