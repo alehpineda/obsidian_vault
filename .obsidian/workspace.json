@@ -143,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4eb890f6e359a72b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18cff9a7293f5cf1",
+  "active": "4eb890f6e359a72b",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Best Practices.md",
+    "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "04_Archives/📲 Grok App login issue.md",
