@@ -104,6 +104,8 @@ git config --global user.email "MY_NAME@example.com"
 ```
 
 - ### Install zsh
+- ### Install ohmyzsh
+- ### Install ansible
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
 - ### Install gemini-cli
