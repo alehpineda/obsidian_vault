@@ -41,7 +41,7 @@ Touch pad detected outside the box.
 
 - ### Install homebrew
 
-
+Followed steps from 
 
 - Install uv
 - Install Docker
