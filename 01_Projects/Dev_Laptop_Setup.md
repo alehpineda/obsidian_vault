@@ -86,5 +86,14 @@ Added PARA in documents folder. Added extra folders for repositories, containers
 Followed [Obsidian](https://obsidian.md/download) instructions
 Downloaded `deb` package and installed.
 
+- ### Install gh-cli
+
+Installed gh-cli from brew
+
+```bash
+brew install gh-cli
+```
+
 - ### Config Git
 
+Config git for Obsidian git 
