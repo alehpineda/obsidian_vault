@@ -85,3 +85,6 @@ Added PARA in documents folder. Added extra folders for repositories, containers
 
 Followed [Obsidian](https://obsidian.md/download) instructions
 Downloaded `deb` package and installed.
+
+- ### Config Git
+

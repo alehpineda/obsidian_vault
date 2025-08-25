@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "218f85236e9efb53",
+        "id": "012178d5b16754b6",
         "type": "tabs",
         "children": [
           {
-            "id": "6c93dba1086c099d",
+            "id": "08c9473aa3d5367f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/Dev_Laptop_Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dev_Laptop_Setup"
+            }
+          },
+          {
+            "id": "99e039e4a1aa8efc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c93dba1086c099d",
+  "active": "08c9473aa3d5367f",
   "lastOpenFiles": [
+    "01_Projects/Dev_Laptop_Setup.md",
+    "02_Areas/Software Engineering/A_Software_Engineering.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Welcome.md",
     "Best Practices.md",
-    "01_Projects/Dev_Laptop_Setup.md",
     "05_Repositories",
     "07_Containers",
     "06_Blog_Posts",
