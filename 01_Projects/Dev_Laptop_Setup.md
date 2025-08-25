@@ -105,4 +105,5 @@ git config --global user.email "MY_NAME@example.com"
 
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
-- ### Install 
+- ### Install gemini-cli
+- 
