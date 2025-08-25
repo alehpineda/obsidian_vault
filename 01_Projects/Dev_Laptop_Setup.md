@@ -27,8 +27,10 @@ From #area and !"Templates"
 
 ## Notes
 
-- Install Ubuntu 25.04
+- ### Install Ubuntu 25.04
 
+Choose Ubuntu 25.04 because it mentioned compatibility with recent hardware.
+Pop Os 
 
 - Install homebrew
 - Install uv
