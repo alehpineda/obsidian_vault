@@ -39,9 +39,10 @@ Hardware got detected after setup.
 Latest nvidia driver work outside the box.
 Touch pad detected outside the box.
 
+- ### Install homebrew
 
 
-- Install homebrew
+
 - Install uv
 - Install Docker
 - Install VS Code
