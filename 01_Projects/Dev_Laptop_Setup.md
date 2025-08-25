@@ -68,4 +68,6 @@ Also added the post installation steps.
 
 - ### Install VS Code
 
-Followed 
+Followed [vscode](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux) instructions
+
+Have issue creating 
