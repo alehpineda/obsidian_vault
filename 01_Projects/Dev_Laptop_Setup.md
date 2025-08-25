@@ -82,3 +82,4 @@ Created a `python_dev` profile with python related extensions.
 Added PARA in documents folder. Added extra folders for repositories, docker 
 
 - ### Install Obsidian
+
