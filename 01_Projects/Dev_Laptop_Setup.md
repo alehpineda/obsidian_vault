@@ -30,7 +30,7 @@ From #area and !"Templates"
 - ### Install Ubuntu 25.04
 
 Choose Ubuntu 25.04 because it mentioned compatibility with recent hardware.
-Pop Os 
+Pop Os had issues with rtx card and 
 
 - Install homebrew
 - Install uv
