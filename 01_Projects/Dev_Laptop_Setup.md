@@ -73,3 +73,6 @@ Followed [vscode](https://code.visualstudio.com/docs/setup/linux#_install-vs-cod
 Have issue creating profiles from templates.
 Creating a new profile from default worked well.
 
+
+
+- ### Install Obsidian
