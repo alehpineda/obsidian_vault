@@ -96,4 +96,10 @@ brew install gh-cli
 
 - ### Config Git
 
-Config git for Obsidian git 
+Config git for Obsidian git plugin. 
+
+```bash
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+```
+
