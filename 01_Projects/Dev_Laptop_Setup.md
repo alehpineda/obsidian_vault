@@ -64,5 +64,8 @@ sudo apt update
 sudo apt install docker-compose
 ```
 
+Also added the post installation steps.
+
 - ### Install VS Code
 
+Followed 
