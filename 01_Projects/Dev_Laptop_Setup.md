@@ -46,6 +46,14 @@ Followed steps from [homebrew](https://brew.sh/)
 
 - Install uv
 
+```bash
+brew install uv
+```
+
 
 - Install Docker
+
+Tried installing docker from brew. Couldn't make it run.
+Tried the convenience script. Worked, but 
+
 - Install VS Code
