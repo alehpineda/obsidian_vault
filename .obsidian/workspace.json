@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/UV load for each project when cd into folder.md",
+                "file": "01_Projects/Dev_Laptop_Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UV load for each project when cd into folder"
+              "title": "Dev_Laptop_Setup"
             }
           },
           {
@@ -193,8 +193,9 @@
   },
   "active": "08c9473aa3d5367f",
   "lastOpenFiles": [
-    "01_Projects/Dev_Laptop_Setup.md",
+    "00_Inbox/Vscode mcp servers.md",
     "00_Inbox/UV load for each project when cd into folder.md",
+    "01_Projects/Dev_Laptop_Setup.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Welcome.md",
