@@ -103,6 +103,13 @@ git config --global user.name "FIRST_NAME LAST_NAME"
 git config --global user.email "MY_NAME@example.com"
 ```
 
+- ### Install npm
+
+```bash
+brew install npm
+```
+
+- Run
 - ### Install zsh
 - ### Install ohmyzsh
 - ### Install ansible
