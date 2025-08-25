@@ -109,7 +109,12 @@ git config --global user.email "MY_NAME@example.com"
 brew install npm
 ```
 
-- Run
+- ### Install bmad method
+
+```bash
+
+```
+
 - ### Install zsh
 - ### Install ohmyzsh
 - ### Install ansible
