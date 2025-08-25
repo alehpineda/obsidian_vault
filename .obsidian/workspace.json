@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/Dev_Laptop_Setup.md",
+                "file": "Templates/resources_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dev_Laptop_Setup"
+              "title": "resources_template"
             }
           }
         ]
@@ -183,11 +183,13 @@
   },
   "active": "a31ea26ce1f7abe4",
   "lastOpenFiles": [
-    "01_Projects/P_🐍 Introduction to Python and Vyper.md",
+    "Templates/project_template.md",
+    "Templates/area_template.md",
+    "01_Projects/Dev_Laptop_Setup.md",
+    "01_Projects/🐍 Introduction to Python and Vyper.md",
     "2025-07-22.md",
     "Best Practices.md",
     "Welcome.md",
-    "01_Projects/Dev_Laptop_Setup.md",
     "00_Inbox/Homelab.md",
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
