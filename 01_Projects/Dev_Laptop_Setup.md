@@ -28,6 +28,8 @@ From #area and !"Templates"
 ## Notes
 
 - Install Ubuntu 25.04
+
+
 - Install homebrew
 - Install uv
 - Install Docker

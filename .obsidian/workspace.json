@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/resources_template.md",
+                "file": "01_Projects/Dev_Laptop_Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources_template"
+              "title": "Dev_Laptop_Setup"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "a31ea26ce1f7abe4",
   "lastOpenFiles": [
+    "Templates/resources_template.md",
     "Templates/project_template.md",
     "Templates/area_template.md",
     "01_Projects/Dev_Laptop_Setup.md",
