@@ -109,10 +109,10 @@ git config --global user.email "MY_NAME@example.com"
 brew install npm
 ```
 
-- ### Install bmad method
+- ### Install bmad method in project
 
 ```bash
-
+npx bmad-method install
 ```
 
 - ### Install zsh
