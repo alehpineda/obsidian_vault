@@ -42,9 +42,10 @@ Touch pad detected outside the box.
 - ### Install homebrew
 
 Followed steps from [homebrew](https://brew.sh/)
-NOTE
-
+**NOTE:** installed for bash. When installed for zsh, need to point to zsh.
 
 - Install uv
+
+
 - Install Docker
 - Install VS Code
