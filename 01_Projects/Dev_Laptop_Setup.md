@@ -70,4 +70,6 @@ Also added the post installation steps.
 
 Followed [vscode](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux) instructions
 
-Have issue creating 
+Have issue creating profiles from templates.
+Creating a new profile from default worked well.
+
