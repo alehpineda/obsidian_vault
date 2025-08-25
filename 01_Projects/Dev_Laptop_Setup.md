@@ -30,7 +30,10 @@ From #area and !"Templates"
 - ### Install Ubuntu 25.04
 
 Choose Ubuntu 25.04 because it mentioned compatibility with recent hardware.
-Pop Os had issues with rtx card and 
+Pop Os had issues with rtx card and random freezes.
+Touch pad had responsive issues.
+
+Used Ventoy to create boot usb. 
 
 - Install homebrew
 - Install uv
