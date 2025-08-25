@@ -24,3 +24,11 @@ Setup dev environment in gpu laptop.
 list
 From #area and !"Templates"
 ```
+
+## Notes
+
+- Install Ubuntu 25.04
+- Install homebrew
+- Install uv
+- Install Docker
+- Install VS Code
