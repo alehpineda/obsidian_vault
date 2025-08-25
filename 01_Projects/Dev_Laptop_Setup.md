@@ -79,9 +79,9 @@ Created a `python_dev` profile with python related extensions.
 
 - ### PARA Method in Documents folder
 
-Added PARA in documents folder. Added extra folders for repositories, docker 
+Added PARA in documents folder. Added extra folders for repositories, containers, and blog posts.
 
 - ### Install Obsidian
 
 Followed [Obsidian](https://obsidian.md/download) instructions
-Downloaded 
+Downloaded `deb` package and installed.
