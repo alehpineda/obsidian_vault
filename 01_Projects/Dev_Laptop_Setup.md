@@ -54,6 +54,7 @@ brew install uv
 - Install Docker
 
 Tried installing docker from brew. Couldn't make it run.
-Tried the convenience script. Worked, but 
+Tried the convenience script. Worked, but did not like it.
+Followed 
 
 - Install VS Code
