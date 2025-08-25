@@ -55,6 +55,13 @@ brew install uv
 
 Tried installing docker from brew. Couldn't make it run.
 Tried the convenience script. Worked, but did not like it.
-Followed 
+Followed [apt method](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+
+Docker-compose needs to be installed from apt
+
+```bash
+sudo apt update
+sudo apt install docker-compose
+```
 
 - Install VS Code
