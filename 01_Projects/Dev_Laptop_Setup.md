@@ -75,7 +75,7 @@ Creating a new profile from default worked well.
 
 Created a `python_dev` profile with python related extensions.
 
-
+**Can I make uv to load an env per project?**
 
 - ### PARA Method in Documents folder
 
