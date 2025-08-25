@@ -33,7 +33,13 @@ Choose Ubuntu 25.04 because it mentioned compatibility with recent hardware.
 Pop Os had issues with rtx card and random freezes.
 Touch pad had responsive issues.
 
-Used Ventoy to create boot usb. 
+Used Ventoy to create boot usb. Just added iso. No issues
+
+Hardware got detected after setup.
+Latest nvidia driver work outside the box.
+Touch pad detected outside the box.
+
+
 
 - Install homebrew
 - Install uv
