@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
+                "file": "01_Projects/Dev_Laptop_Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A_Python_Backend_Dev"
+              "title": "Dev_Laptop_Setup"
             }
           }
         ]
@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a31ea26ce1f7abe4",
+  "active": "3ba2f13e587e9859",
   "lastOpenFiles": [
+    "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
     "Templates/project_template.md",
     "Templates/area_template.md",
     "01_Projects/Dev_Laptop_Setup.md",
@@ -193,7 +194,6 @@
     "Welcome.md",
     "00_Inbox/Homelab.md",
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
-    "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
     "04_Archives/📲 Grok App login issue.md",
     "🖥️ My Areas.md",
     "🥇 My Resources.md",
