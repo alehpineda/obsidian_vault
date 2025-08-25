@@ -103,6 +103,7 @@ git config --global user.name "FIRST_NAME LAST_NAME"
 git config --global user.email "MY_NAME@example.com"
 ```
 
+- ### Install zsh
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
 - ### Install gemini-cli
