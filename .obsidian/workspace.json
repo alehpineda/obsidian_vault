@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 565.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08c9473aa3d5367f",
+  "active": "4eb890f6e359a72b",
   "lastOpenFiles": [
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "01_Projects/Dev_Laptop_Setup.md",
