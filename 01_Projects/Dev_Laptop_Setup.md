@@ -121,4 +121,10 @@ npx bmad-method install
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
 - ### Install gemini-cli
-- 
+- ### Install ghostty
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh)"
+```
+
+Test a 
