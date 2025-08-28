@@ -127,4 +127,4 @@ npx bmad-method install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh)"
 ```
 
-Test a 
+Test a new terminal emulator
