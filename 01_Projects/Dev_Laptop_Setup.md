@@ -86,7 +86,7 @@ Added PARA in documents folder. Added extra folders for repositories, containers
 Followed [Obsidian](https://obsidian.md/download) instructions
 Downloaded `deb` package and installed.
 
-- ### Install gh-cli
+- ### Install Github-cli
 
 Installed gh-cli from brew
 
@@ -123,6 +123,11 @@ sudo apt install zsh
 ```
 
 - ### Install ohmyzsh
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 - ### Install ansible
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
