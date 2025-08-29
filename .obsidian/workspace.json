@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Dev_Laptop_Setup"
             }
-          },
-          {
-            "id": "99e039e4a1aa8efc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99e039e4a1aa8efc",
+  "active": "08c9473aa3d5367f",
   "lastOpenFiles": [
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "01_Projects/Dev_Laptop_Setup.md",
