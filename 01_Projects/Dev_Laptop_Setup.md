@@ -128,7 +128,13 @@ sudo apt install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-- ### Install
+- ### Install p10k theme
+
+```zsh
+brew install powerlevel10k
+echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+```
+
 
 - ### Install ansible
 - ### Install Portainer using docker-compose
