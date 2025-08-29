@@ -135,6 +135,8 @@ brew install powerlevel10k
 echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
 ```
 
+- ### Install 
+
 
 - ### Install ansible
 - ### Install Portainer using docker-compose
