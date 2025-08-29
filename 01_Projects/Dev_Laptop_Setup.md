@@ -142,8 +142,6 @@ brew install --cask font-meslo-lg-nerd-font
 ```
 
 
-
-
 - ### Install ansible
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
