@@ -141,6 +141,7 @@ echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >>~/.
 brew install --cask font-meslo-lg-nerd-font
 ```
 
+For ghostty 
 
 - ### Install ansible
 - ### Install Portainer using docker-compose
@@ -148,8 +149,11 @@ brew install --cask font-meslo-lg-nerd-font
 - ### Install gemini-cli
 
 ```zsh
-brew ins
+brew install gemini-cli
 ```
+Login using google account or api key
+
+
 - ### Install ghostty
 
 ```bash
