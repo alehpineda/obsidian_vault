@@ -143,6 +143,17 @@ brew install --cask font-meslo-lg-nerd-font
 
 For ghostty 
 
+```
+font-family = MesloLGS NF
+```
+
+for VSCode
+
+```
+font-family = MesloLGS Nerd Font
+```
+
+
 - ### Install ansible
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
