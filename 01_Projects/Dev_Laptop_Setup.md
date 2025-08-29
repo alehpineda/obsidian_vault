@@ -116,6 +116,12 @@ npx bmad-method install
 ```
 
 - ### Install zsh
+
+```bash
+sudo apt update
+sudo apt install zsh
+```
+
 - ### Install ohmyzsh
 - ### Install ansible
 - ### Install Portainer using docker-compose
