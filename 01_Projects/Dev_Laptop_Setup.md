@@ -146,6 +146,10 @@ brew install --cask font-meslo-lg-nerd-font
 - ### Install Portainer using docker-compose
 - ### Install Ollama using docker-compose
 - ### Install gemini-cli
+
+```zsh
+brew ins
+```
 - ### Install ghostty
 
 ```bash
