@@ -138,8 +138,10 @@ echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >>~/.
 - ### Install Nerd Font
 
 ```zsh
-brew install --cask 
+brew install --cask font-meslo-lg-nerd-font
 ```
+
+
 
 
 - ### Install ansible
