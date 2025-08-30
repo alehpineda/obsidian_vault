@@ -171,6 +171,8 @@ brew install gemini-cli
 ```
 Login using google account or api key
 
+Ghostty is having keyboard binding issues with gemini-cli. PR raised on gemini cli side.
+
 
 - ### Install ghostty
 
