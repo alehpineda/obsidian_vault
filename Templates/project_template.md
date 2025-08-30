@@ -1,10 +1,10 @@
 ---
-Status: 
-Links: "[[🚧 My Projects]]"
+Status:
+Area:
 tags:
   - project
 Deadline: 2025-07-22
-Area:
+Links: "[[🚧 My Projects]]"
 ---
 ## Goal
 
