@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/area_template.md",
+                "file": "🚧 My Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "area_template"
+              "title": "🚧 My Projects"
             }
           }
         ]
@@ -169,8 +169,12 @@
   },
   "active": "ae47e863d7ae99d4",
   "lastOpenFiles": [
-    "Templates/project_template.md",
+    "🥇 My Resources.md",
+    "🖥️ My Areas.md",
+    "Templates/resources_template.md",
     "Templates/area_template.md",
+    "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
+    "Templates/project_template.md",
     "00_Inbox/Vscode mcp servers.md",
     "00_Inbox/BMAD Method with GitHub MCP.md",
     "00_Inbox/Web3 Bot.md",
@@ -185,16 +189,12 @@
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "02_Areas/Vyper Dev/A_Vyper_Dev.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
-    "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
     "Best Practices.md",
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "Welcome.md",
-    "Templates/resources_template.md",
     "03_Resources/R_yubikey_1password.md",
     "03_Resources/R_matrices_are_graphs.md",
     "03_Resources/R_what_is_a_mono_repo.md",
-    "🖥️ My Areas.md",
-    "🚧 My Projects.md",
     "02_Areas/Vyper Dev",
     "02_Areas/Software Engineering",
     "02_Areas/Python Backend Dev",
