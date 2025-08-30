@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "1a6eee32fbad497d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e3766b1196084c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8596e6ca98a08012",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cb684dd0b3e5cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "024cc6084c255c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba2f13e587e9859",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40af7fc664220b28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9828c39e6ce83f09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0cc318c55dce2233",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95824898f107bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f007e529907dcf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Inbox/Homelab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homelab"
+            }
+          },
+          {
+            "id": "cedfc2338f7bb970",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Inbox/Homelab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homelab"
+            }
+          },
+          {
+            "id": "e12a28f1355ed955",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0ceeb7d1a3cf399",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Inbox/Homelab.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homelab"
+            }
+          },
+          {
+            "id": "4eb890f6e359a72b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4eb890f6e359a72b",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "01_Projects/Dev_Laptop_Setup.md",
+    "01_Projects/P_🐍 Introduction to Python and Vyper.md",
+    "00_Inbox/BMAD Method with GitHub MCP.md",
+    "00_Inbox/Archon OS BMAD Method in VSCode.md",
+    "00_Inbox/Vscode mcp servers.md",
+    "00_Inbox/UV load for each project when cd into folder.md",
+    "02_Areas/Software Engineering/A_Software_Engineering.md",
+    "01_Projects/🐍 Introduction to Python and Vyper.md",
+    "Welcome.md",
+    "Best Practices.md",
+    "05_Repositories",
+    "07_Containers",
+    "06_Blog_Posts",
+    "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
+    "Templates/project_template.md",
+    "Templates/area_template.md",
+    "Templates/resources_template.md",
+    "2025-07-22.md",
+    "00_Inbox/Homelab.md",
+    "04_Archives/📲 Grok App login issue.md",
+    "🖥️ My Areas.md",
+    "🥇 My Resources.md",
+    "🚧 My Projects.md",
+    "README.md"
+  ]
+}
