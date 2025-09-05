@@ -34,7 +34,13 @@ Deadline: 2025-08-10
 	- [[License]]
 	- [[Compiling]]
 	- [[Contract design]]
-	- 
+	- [[Vyper Types]]
+	- [[Quiz - 02]]
+	- [[Visibility]]
+	- [[Functions]]
+	- [[Func visibility]]
+	- [[View and Pure]]
+	- [[Quiz ]]
 
 
 ## Related Areas
