@@ -45,7 +45,12 @@ Deadline: 2025-08-10
 	- [[Advanced Func]]
 	- [[Ref types]]
 	- [[Claude]]
-	- [[Arrays List]]
+	- [[Arrays Lists]]
+	- [[Structs and Strings]]
+	- [[Quiz - 04]]
+	- [[Workshop]]
+	- [[Hash Map]]
+	- [[Recap]]
 	- 
 
 
