@@ -4,4 +4,6 @@
 	- Python
 - If a software project does not include any specific licensing information, what is generally the default legal status of the code?
 	- It is considered unlicensed, meaning all rights are typically reserved by the author.
-	- 
+- What is the primary reason for processing source code written in a high-level language before it can run on a blockchain execution environment like the EVM?
+	- To translate the human-readable code into low-level machine instructions that the execution environment can understand.
+- Which specific output from the compilation process represents the code that is actually stored on the blockchain and executed by the EVM?
