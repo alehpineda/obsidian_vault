@@ -1,2 +1,7 @@
 - In the Vyper programming language, what symbol is used to initiate a single-line comment?
 	- `#`
+- The syntax for comments in Vyper is identical to which other popular programming language, reflecting Vyper's design philosophy?
+	- Python
+- If a software project does not include any specific licensing information, what is generally the default legal status of the code?
+	- It is considered unlicensed, meaning all rights are typically reserved by the author.
+	- 
