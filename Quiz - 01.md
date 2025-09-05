@@ -1,0 +1,3 @@
+- In the context of blockchain technology, what is the primary role of specific programming languages?
+	- To define the logic, rules, and data structures for executable smart contracts.
+- 

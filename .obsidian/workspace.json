@@ -25,13 +25,18 @@
             "id": "61267c79480993cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Quiz - 01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Quiz - 01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,9 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4b96ee5b3ec72b4",
+  "active": "61267c79480993cd",
   "lastOpenFiles": [
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
+    "Quiz - 01.md",
     "Pragma Version.md",
     "Welcome to remix.md",
     "Walkthrough.md",
@@ -221,7 +227,6 @@
     "04_Archives/📲 Grok App login issue.md",
     "🖥️ My Areas.md",
     "🥇 My Resources.md",
-    "🚧 My Projects.md",
-    "README.md"
+    "🚧 My Projects.md"
   ]
 }
