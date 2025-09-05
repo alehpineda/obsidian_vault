@@ -4,4 +4,9 @@
 	- Developers must critically evaluate and verify the AI's suggestions, as AI can provide incorrect or unsuitable code.
 - Which file extension is conventionally used to signify that a file contains Vyper smart contract code?
 	- `.vy`
+- Why is specifying an exact compiler version often preferred over using version ranges (like using '^') for production code?
+	- To guarantee the contract compiles and behaves precisely as it was tested, avoiding potential issues from untested changes in newer patch versions.
+- Which symbol is commonly used to initiate the compiler version pragma directive in Vyper?
+	- `#`
+- Which of the following syntaxes, while potentially valid in some contexts, is generally discouraged for defining the compiler version in production Vyper code due to introducing version flexibility?
 - 
