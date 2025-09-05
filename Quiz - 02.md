@@ -14,4 +14,6 @@
 	- Signed integer types (e.g., intN)
 - Which Vyper data type is specifically designed to store Ethereum account or contract identifiers?
 	- address
+- In statically typed programming languages like Vyper, when must the data type of a variable be known?
+	- At compile-time (before execution)
 - 
