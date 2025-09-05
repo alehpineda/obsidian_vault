@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best Practices.md",
+                "file": "Mox Best Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best Practices"
+              "title": "Mox Best Practices"
             }
           }
         ]
@@ -181,9 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4eb890f6e359a72b",
+  "active": "376eb9a3eda1cd3e",
   "lastOpenFiles": [
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
+    "Mox Best Practices.md",
+    "Best Practices.md",
     "conflict-files-obsidian-git.md",
     "01_Projects/Dev_Laptop_Setup.md",
     "00_Inbox/BMAD Method with GitHub MCP.md",
@@ -193,7 +195,6 @@
     "02_Areas/Software Engineering/A_Software_Engineering.md",
     "01_Projects/🐍 Introduction to Python and Vyper.md",
     "Welcome.md",
-    "Best Practices.md",
     "05_Repositories",
     "07_Containers",
     "06_Blog_Posts",

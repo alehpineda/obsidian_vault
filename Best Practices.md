@@ -3,4 +3,3 @@
 - Use AI to speed your learning
 - Code along
 - Use Discussions to ask questions.
-- 
