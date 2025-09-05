@@ -28,6 +28,12 @@ Deadline: 2025-08-10
 	- [[Mox Best Practices]]
 	- [[Walkthrough]]
 	- [[Welcome to remix]]
+	- [[Pragma Version]]
+	- [[Quiz - 01]]
+	- [[Comments]]
+	- [[License]]
+	- [[Compiling]]
+	- [[Contract design]]
 	- 
 
 
