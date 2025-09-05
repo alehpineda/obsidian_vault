@@ -1,5 +1,6 @@
 - Use the GitHub Repo [link](https://github.com/Cyfrin/moccasin-full-course-cu).
-- Use GitHub Discusions [link](https://github.com/Cyfrin/moccasin-full-course-cu/discussions).
+- Use GitHub Discussions [link](https://github.com/Cyfrin/moccasin-full-course-cu/discussions).
 - Use AI to speed your learning
 - Code along
+- Use Discussions to ask questions.
 - 
