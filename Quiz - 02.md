@@ -1,0 +1,2 @@
+- In the Vyper programming language, what symbol is used to initiate a single-line comment?
+	- `#`

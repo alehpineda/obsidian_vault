@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comments.md",
+                "file": "Quiz - 02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comments"
+              "title": "Quiz - 02"
             }
           }
         ],
@@ -200,6 +200,7 @@
   "active": "61267c79480993cd",
   "lastOpenFiles": [
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
+    "Quiz - 02.md",
     "Comments.md",
     "Quiz - 01.md",
     "Pragma Version.md",
@@ -226,7 +227,6 @@
     "2025-07-22.md",
     "00_Inbox/Homelab.md",
     "04_Archives/📲 Grok App login issue.md",
-    "🖥️ My Areas.md",
-    "🥇 My Resources.md"
+    "🖥️ My Areas.md"
   ]
 }
