@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Inbox/Homelab.md",
+                "file": "Best Practices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homelab"
+              "title": "Outline of Best Practices"
             }
           },
           {
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "376eb9a3eda1cd3e",
+  "active": "4eb890f6e359a72b",
   "lastOpenFiles": [
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "conflict-files-obsidian-git.md",
