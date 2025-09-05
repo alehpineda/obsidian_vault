@@ -22,7 +22,7 @@ Deadline: 2025-08-10
 
 ## Syllabus
 
-- Section 1
+- Section 1: Favorites
 	- [[Welcome]]
 	- [[Best Practices]]
 	- [[Mox Best Practices]]
@@ -57,6 +57,9 @@ Deadline: 2025-08-10
 	- [[EVM]]
 	- [[Pure and View]]
 	- [[Workshop - 02]]
+	- [[Quiz - 05]]
+	- [[Recap - 02]]
+- Section 2
 
 
 ## Related Areas
