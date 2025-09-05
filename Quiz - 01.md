@@ -1,3 +1,7 @@
 - In the context of blockchain technology, what is the primary role of specific programming languages?
 	- To define the logic, rules, and data structures for executable smart contracts.
+- When utilizing AI assistants for programming tasks, what is a crucial consideration for the developer?
+	- Developers must critically evaluate and verify the AI's suggestions, as AI can provide incorrect or unsuitable code.
+- Which file extension is conventionally used to signify that a file contains Vyper smart contract code?
+	- `.vy`
 - 
