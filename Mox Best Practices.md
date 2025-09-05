@@ -1,1 +1,1 @@
-- Github repo. [link]()
+- Github repo. [link](https://github.com/Cyfrin/moccasin-full-course-cu?tab=readme-ov-file#section-1-welcome-to-remix---favorites-list)

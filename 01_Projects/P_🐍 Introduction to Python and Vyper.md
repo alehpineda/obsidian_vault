@@ -26,6 +26,8 @@ Deadline: 2025-08-10
 	- [[Welcome]]
 	- [[Best Practices]]
 	- [[Mox Best Practices]]
+	- [[Walkthrough]]
+	- [[Welcome to remix]]
 	- 
 
 
