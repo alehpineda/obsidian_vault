@@ -1,2 +1,3 @@
 - Remix [link](https://remix.ethereum.org/)
-- Remix IDE web ide for 
+- Remix IDE web ide for smart contracts.
+	- Let's see local development.
