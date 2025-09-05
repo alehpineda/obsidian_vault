@@ -9,4 +9,5 @@
 - Which symbol is commonly used to initiate the compiler version pragma directive in Vyper?
 	- `#`
 - Which of the following syntaxes, while potentially valid in some contexts, is generally discouraged for defining the compiler version in production Vyper code due to introducing version flexibility?
+	- `# pragma version ^0.4.0`
 - 
