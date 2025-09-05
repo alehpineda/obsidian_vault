@@ -10,4 +10,8 @@
 	- Runtime Bytecode.
 - Which two essential components are produced as output when a Vyper smart contract is successfully compiled?
 	- The Application Binary Interface (ABI) and the EVM Bytecode.
+- If a variable needs to store whole numbers which might include negative values, which general category of data type should be chosen?
+	- Signed integer types (e.g., intN)
+- Which Vyper data type is specifically designed to store Ethereum account or contract identifiers?
+	- address
 - 
