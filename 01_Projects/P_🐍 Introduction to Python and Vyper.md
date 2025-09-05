@@ -51,7 +51,12 @@ Deadline: 2025-08-10
 	- [[Workshop]]
 	- [[Hash Map]]
 	- [[Recap]]
-	- 
+	- [[Tenderly]]
+	- [[ZKsync]]
+	- [[Share]]
+	- [[EVM]]
+	- [[Pure and View]]
+	- [[Workshop - 02]]
 
 
 ## Related Areas
