@@ -40,7 +40,13 @@ Deadline: 2025-08-10
 	- [[Functions]]
 	- [[Func visibility]]
 	- [[View and Pure]]
-	- [[Quiz ]]
+	- [[Quiz - 03]]
+	- [[Constructor]]
+	- [[Advanced Func]]
+	- [[Ref types]]
+	- [[Claude]]
+	- [[Arrays List]]
+	- 
 
 
 ## Related Areas
