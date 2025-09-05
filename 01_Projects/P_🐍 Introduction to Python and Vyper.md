@@ -59,7 +59,7 @@ Deadline: 2025-08-10
 	- [[Workshop - 02]]
 	- [[Quiz - 05]]
 	- [[Recap - 02]]
-- Section 2
+- Section 2: Remix Coffee
 
 
 ## Related Areas
