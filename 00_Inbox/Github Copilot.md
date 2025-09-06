@@ -9,4 +9,5 @@ Ideas
 - Bmad method ready for opencode 
 - spec kit for spec driven development
 - Compare both BMAD vs spec kit.
+- Grab best of both worlds.
 - 
