@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/BMAD Method with GitHub MCP.md",
+                "file": "00_Inbox/Github Copilot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BMAD Method with GitHub MCP"
+              "title": "Github Copilot"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "badb0d59d798f6d2",
   "lastOpenFiles": [
+    "00_Inbox/BMAD Method with GitHub MCP.md",
     "00_Inbox/Github Copilot.md",
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "01_Projects/Dev_Laptop_Setup.md",
@@ -184,7 +185,6 @@
     "00_Inbox/Python.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
     "00_Inbox/Homelab.md",
-    "00_Inbox/BMAD Method with GitHub MCP.md",
     "🚧 My Projects.md",
     "🥇 My Resources.md",
     "🖥️ My Areas.md",
