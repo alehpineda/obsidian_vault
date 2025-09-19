@@ -11,10 +11,14 @@
             "id": "badb0d59d798f6d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/BMAD Method start project.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BMAD Method start project"
             }
           }
         ]
@@ -163,10 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f37d5a6636d41ad",
+  "active": "badb0d59d798f6d2",
   "lastOpenFiles": [
-    "/01_Projects/Dev_Laptop_Setup.md",
+    "00_Inbox/BMAD Method with GitHub MCP.md",
+    "00_Inbox/BMAD Method start project.md",
+    "00_Inbox/Github Copilot.md",
+    "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "01_Projects/Dev_Laptop_Setup.md",
+    "/01_Projects/Dev_Laptop_Setup.md",
     "/01_Projects",
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "00_Inbox/Web3 Bot.md",
@@ -178,8 +186,6 @@
     "00_Inbox/Python.md",
     "00_Inbox/Obsidian ipad similar desktop experience.md",
     "00_Inbox/Homelab.md",
-    "00_Inbox/BMAD Method with GitHub MCP.md",
-    "00_Inbox/Archon OS BMAD Method in VSCode.md",
     "🚧 My Projects.md",
     "🥇 My Resources.md",
     "🖥️ My Areas.md",
@@ -190,8 +196,6 @@
     "03_Resources/R_context7_mcp_server.md",
     "02_Areas/Vyper Dev/A_Vyper_Dev.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
-    "Best Practices.md",
-    "Welcome.md",
     "02_Areas/Vyper Dev",
     "02_Areas/Software Engineering",
     "02_Areas/Python Backend Dev",

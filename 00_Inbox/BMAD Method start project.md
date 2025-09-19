@@ -1,0 +1,1 @@
+- Usar grok projects para iniciar la Planeación del proyecto y ahorrar tokens.
