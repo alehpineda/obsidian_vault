@@ -5,14 +5,16 @@ Hardware
 
 PCs
 - List of PCs
-	- gmktec g5 -
+	- gmktec g5 - n100, 256 gb, 12 ram
+		- astaroth
+		- 
 
 Storage
 - List of hdd, sdd, m2
 
 Network
 - List of routers, switches, modems
-
+New conversation · 
 Projects
 - Setup Tailscale, docker containers
 - Setup ansible and docker repository for documenting homelab
