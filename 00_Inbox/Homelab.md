@@ -5,6 +5,7 @@ Hardware
 
 PCs
 - List of PCs
+	- gmktec g5 -
 
 Storage
 - List of hdd, sdd, m2
