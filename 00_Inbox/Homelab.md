@@ -7,7 +7,7 @@ PCs
 - List of PCs
 	- gmktec g5 - n100, 256 gb, 12 ram
 		- astaroth
-		- 
+		- bael - ubuntu server 25.04
 
 Storage
 - List of hdd, sdd, m2
