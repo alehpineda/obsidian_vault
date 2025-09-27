@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to remix.md",
+                "file": "00_Inbox/Homelab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome to remix"
+              "title": "Homelab"
             }
           }
         ],
@@ -198,6 +198,7 @@
   },
   "active": "c9d55e32a9cffe1a",
   "lastOpenFiles": [
+    "Welcome to remix.md",
     "00_Inbox/Homelab.md",
     "k.md",
     "Pragma Version.md",
@@ -208,7 +209,6 @@
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "Comments.md",
     "Quiz - 01.md",
-    "Welcome to remix.md",
     "Walkthrough.md",
     "Mox Best Practices.md",
     "Best Practices.md",
