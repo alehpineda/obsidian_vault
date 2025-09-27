@@ -19,6 +19,7 @@ PCs
 		- firmware 4.8.2
 		- main lan
 			- 192.168.8.2
+			- 4242
 
 Storage
 - List of hdd, sdd, m2
