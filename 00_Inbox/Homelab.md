@@ -14,7 +14,11 @@ PCs
 		- main lan
 			- 10.0.0.1
 		- guest lan
-			- 10.0.
+			- 10.0.10.1
+	- flint 2 (AP)
+		- firmware 4.8.2
+		- main lan
+			- 192.168.8.2
 
 Storage
 - List of hdd, sdd, m2
