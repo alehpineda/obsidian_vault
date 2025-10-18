@@ -27,7 +27,12 @@ PCs
 			- 192.168.8.1
 		-  dhcp
 			- 100 - 250
-	- 
+	-  flint 3
+		- main
+		- ap
+	- slate 7
+		- main
+		- test
 
 Storage
 - List of hdd, sdd, m2
