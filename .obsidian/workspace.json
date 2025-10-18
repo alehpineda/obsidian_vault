@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Homelab"
             }
+          },
+          {
+            "id": "2df46fa9ecfafea6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9d55e32a9cffe1a",
+  "active": "2df46fa9ecfafea6",
   "lastOpenFiles": [
     "Welcome to remix.md",
     "00_Inbox/Homelab.md",
