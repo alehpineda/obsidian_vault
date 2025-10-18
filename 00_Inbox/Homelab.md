@@ -17,12 +17,13 @@ PCs
 			- 10.0.0.1
 		- guest lan
 			- 10.0.10.1
-	- flint 2 (AP)
-		- firmware 4.8.2
-		- main lan
-			- 192.168.8.2
-			- 4242
-	-  flint 2 (main)
+	- flint 2
+		- AP
+			- firmware 4.8.2
+			- main lan
+				- 192.168.8.2
+				- 4242
+	-  flint 2 (
 		- main lan
 			- 192.168.8.1
 		-  dhcp
