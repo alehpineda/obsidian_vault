@@ -10,6 +10,7 @@ PCs
 		- bael - ubuntu server 25.04
 	- hp victus
 		- ubuntu desktop 25.04
+		- dev env
 - List of routers
 	- beryl ax
 		- firmware 4.8.1
@@ -23,11 +24,14 @@ PCs
 			- main lan
 				- 192.168.8.2
 				- 4242
-	-  flint 2 (
-		- main lan
-			- 192.168.8.1
-		-  dhcp
-			- 100 - 250
+		-  main
+			- main lan
+				- 192.168.8.1
+			-  dhcp
+				- free
+					- 100 - 250
+				- reserved
+					- 10 - 100
 	-  flint 3
 		- main
 		- ap
