@@ -39,12 +39,14 @@
             "id": "2df46fa9ecfafea6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Templates/resources_template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "resources_template"
             }
           }
         ],
@@ -210,6 +212,8 @@
   },
   "active": "2df46fa9ecfafea6",
   "lastOpenFiles": [
+    "Templates/project_template.md",
+    "Templates/area_template.md",
     "Welcome to remix.md",
     "00_Inbox/Homelab.md",
     "k.md",
@@ -236,8 +240,6 @@
     "05_Repositories",
     "07_Containers",
     "06_Blog_Posts",
-    "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md",
-    "Templates/project_template.md",
-    "Templates/area_template.md"
+    "02_Areas/Python Backend Dev/A_Python_Backend_Dev.md"
   ]
 }
