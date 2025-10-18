@@ -8,6 +8,8 @@ PCs
 	- gmktec g5 - n100, 256 gb, 12 ram
 		- astaroth
 		- bael - ubuntu server 25.04
+	- hp victus
+		- ubuntu desktop 25.04
 - List of routers
 	- beryl ax
 		- firmware 4.8.1
