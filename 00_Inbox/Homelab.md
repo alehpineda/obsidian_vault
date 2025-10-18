@@ -7,7 +7,11 @@ PCs
 - List of PCs
 	- gmktec g5 - n100, 256 gb, 12 ram
 		- astaroth
-		- bael - ubuntu server 25.04
+			- stage
+		- bael
+			- stage
+			- OS
+				- ubuntu server 25.04
 	- hp victus
 		- ubuntu desktop 25.04
 		- dev env
