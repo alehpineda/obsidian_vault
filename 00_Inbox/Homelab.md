@@ -22,6 +22,12 @@ PCs
 		- main lan
 			- 192.168.8.2
 			- 4242
+	-  flint 2 (main)
+		- main lan
+			- 192.168.8.1
+		-  dhcp
+			- 100 - 250
+	- 
 
 Storage
 - List of hdd, sdd, m2
