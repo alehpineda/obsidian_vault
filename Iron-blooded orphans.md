@@ -12,3 +12,5 @@
 - Kimaris
 - Flauros
 - Gusion
+- Dantalion
+- Gremo
