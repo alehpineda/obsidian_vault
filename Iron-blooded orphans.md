@@ -13,4 +13,5 @@
 - Flauros
 - Gusion
 - Dantalion
-- Gremo
+- Gremory
+- Vual
