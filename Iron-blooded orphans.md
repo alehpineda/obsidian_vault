@@ -5,6 +5,8 @@
 	- Mini pc
 	- Media server
 	- Arr stack
-	- 
+	- Samba
 - Astaroth
 	- Mini pc
+	- Dev
+- 
