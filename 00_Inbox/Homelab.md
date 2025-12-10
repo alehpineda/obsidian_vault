@@ -7,12 +7,13 @@ PCs
 - List of PCs
 	- gmktec g5 - n100, 256 gb, 12 ram
 		- astaroth
-			- stage
+			- dev
 		- bael
-			- stage
+			- dev
 			- OS
 				- ubuntu server 25.04
 	- hp victus
+		- barbatos
 		- ubuntu desktop 25.04
 		- dev env
 - List of routers
