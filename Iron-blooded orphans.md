@@ -9,4 +9,6 @@
 - Astaroth
 	- Mini pc
 	- Dev
-- 
+- Kimaris
+- Flauros
+- Gusion
