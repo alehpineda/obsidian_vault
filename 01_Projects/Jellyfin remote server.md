@@ -19,14 +19,17 @@ Links: "[[🚧 My Projects]]"
 		- accept routes?
 - Penelope
 	- re install ubuntu 
-	tailscale
+	- tailscale
 		- Set up
 		- share local net
 		- accept routes?
 
 ## Motivation
 
+- Streaming services suuuuuuuck.
 ## Description
+
+- Give remote access frjellyfin server to Xi and P
 
 ## Related Areas
 
