@@ -13,11 +13,16 @@ Links: "[[🚧 My Projects]]"
 	- Tailscale accept routes
 - Xi
 	- re install ubuntu lts
-	- Set up tailscale
 	- tailscale
+		- Set up
 		- share local net
+		- accept routes?
 - Penelope
 	- re install ubuntu 
+	tailscale
+		- Set up
+		- share local net
+		- accept routes?
 
 ## Motivation
 
