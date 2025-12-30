@@ -15,7 +15,7 @@ Links: "[[🚧 My Projects]]"
 	- re install ubuntu lts
 	- Set up tailscale
 	- tailscale
-		- share 
+		- share local net
 - Penelope
 	- re install ubuntu 
 
