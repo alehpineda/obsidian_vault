@@ -44,4 +44,4 @@ Both servers need to have the `accept-routes` flag enabled.
 The demo was on mac/windows. So it was enabled by default.
 Linux has it disabled by default.
 
-Since
+I used tailscale's ip v4 instead of
