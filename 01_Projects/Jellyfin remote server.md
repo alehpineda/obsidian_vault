@@ -29,7 +29,7 @@ Links: "[[🚧 My Projects]]"
 - Streaming services suuuuuuuck.
 ## Description
 
-- Give remote access frjellyfin server to Xi and P
+- Give remote access from Bael - jellyfin server to Xi and Penelope.
 
 ## Related Areas
 
