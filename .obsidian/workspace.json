@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Iron-blooded orphans"
             }
+          },
+          {
+            "id": "206d62eab18d4340",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd258228b2b80de7",
+  "active": "206d62eab18d4340",
   "lastOpenFiles": [
     "00_Inbox/Homelab.md",
     "Iron-blooded orphans.md",
