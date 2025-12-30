@@ -67,12 +67,14 @@
             "id": "206d62eab18d4340",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "01_Projects/Jellyfin remote server.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Jellyfin remote server"
             }
           }
         ],
@@ -238,6 +240,8 @@
   },
   "active": "206d62eab18d4340",
   "lastOpenFiles": [
+    "01_Projects/Dev_Laptop_Setup.md",
+    "01_Projects/Jellyfin remote server.md",
     "00_Inbox/Homelab.md",
     "Iron-blooded orphans.md",
     "00_Inbox/Github Copilot.md",
@@ -258,12 +262,10 @@
     "Mox Best Practices.md",
     "Best Practices.md",
     "conflict-files-obsidian-git.md",
-    "01_Projects/Dev_Laptop_Setup.md",
     "00_Inbox/BMAD Method with GitHub MCP.md",
     "00_Inbox/Vscode mcp servers.md",
     "00_Inbox/UV load for each project when cd into folder.md",
     "02_Areas/Software Engineering/A_Software_Engineering.md",
-    "01_Projects/🐍 Introduction to Python and Vyper.md",
     "05_Repositories",
     "07_Containers",
     "06_Blog_Posts"
