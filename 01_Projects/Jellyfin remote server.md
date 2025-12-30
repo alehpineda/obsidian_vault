@@ -10,7 +10,8 @@ Links: "[[🚧 My Projects]]"
 ## Goal
 
 - Bael - Tailscale accept routes
-- 
+- Xi - re install ubuntu lts
+- Penelope - 
 
 ## Motivation
 
