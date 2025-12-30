@@ -46,6 +46,7 @@ Linux has it disabled by default.
 
 I used tailscale's ip v4 instead of localhost and 127.0.0.1. Not sure if this was necesary or not since the server is in a docker container.
 
-`
-```
+```bash
  sudo tailscale serve --service=svc:jellyfin --https=443 http://100.81.22.110:8096
+```
+
