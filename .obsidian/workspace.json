@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/Jellyfin remote server.md",
+                "file": "00_Inbox/Homelab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jellyfin remote server"
+              "title": "Homelab"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,16 +238,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "206d62eab18d4340",
+  "active": "fd258228b2b80de7",
   "lastOpenFiles": [
-    "01_Projects/Dev_Laptop_Setup.md",
     "00_Inbox/Homelab.md",
-    "01_Projects/Jellyfin remote server.md",
-    "Iron-blooded orphans.md",
-    "2025-07-22.md",
+    "00_Inbox/Obsidian ipad similar desktop experience.md",
+    "00_Inbox/Python.md",
     "00_Inbox/Github Copilot.md",
+    "00_Inbox/BMAD Method with GitHub MCP.md",
     "00_Inbox/BMAD Method start project.md",
     "00_Inbox/Archon OS BMAD Method in VSCode.md",
+    "00_Inbox/Untitled.md",
+    "01_Projects/Jellyfin remote server.md",
+    "01_Projects/Dev_Laptop_Setup.md",
+    "Iron-blooded orphans.md",
+    "2025-07-22.md",
     "Templates/resources_template.md",
     "Templates/project_template.md",
     "Templates/area_template.md",
@@ -255,7 +259,6 @@
     "k.md",
     "Pragma Version.md",
     "Quiz - 02.md",
-    "00_Inbox/Untitled.md",
     "01_Projects/P_🐍 Introduction to Python and Vyper.md",
     "Comments.md",
     "Quiz - 01.md",
@@ -263,9 +266,6 @@
     "Mox Best Practices.md",
     "Best Practices.md",
     "conflict-files-obsidian-git.md",
-    "00_Inbox/BMAD Method with GitHub MCP.md",
-    "00_Inbox/Vscode mcp servers.md",
-    "00_Inbox/UV load for each project when cd into folder.md",
     "05_Repositories",
     "07_Containers",
     "06_Blog_Posts"
